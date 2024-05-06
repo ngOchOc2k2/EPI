@@ -1,0 +1,162 @@
+[
+    {
+        "relation": "org:founded_by",
+        "text": "The relation name org:founded_by: The person, organization, or geopolitical entity that founded the assigned organization."
+    },
+    {
+        "relation": "per:employee_of",
+        "text": "The relation name per:employee_of: The organizations or geopolitical entities (governments) of which the assigned person has been an employee or member."
+    },
+    {
+        "relation": "org:alternate_names",
+        "text": "The relation name org:alternate_names: Any name used to refer to the assigned organization that is distinct from the \"official\" name (the namestring for your entity appearing at the top of the annotation or assessment tool). Alternate names may include former names, aliases, alternate spellings, acronyms, abbreviations, translations or transliterations of names, and any official designators such as stock ticker code or airline call sign"
+    },
+    {
+        "relation": "per:cities_of_residence",
+        "text": "The relation name per:cities_of_residence: Geopolitical entities at the level of city, town, or village in which the assigned person has lived. This slot must be filled with the name of a city, town, or village."
+    },
+    {
+        "relation": "per:children",
+        "text": "The relation name per:children: The children of the assigned person, including adopted and step-children."
+    },
+    {
+        "relation": "per:title",
+        "text": "The relation name per:title: Official or unofficial name(s) of the employment or membership positions that have been held by the assigned person."
+    },
+    {
+        "relation": "per:siblings",
+        "text": "The relation name per:siblings: The brothers and sisters of the assigned person."
+    },
+    {
+        "relation": "per:religion",
+        "text": "The relation name per:religion: The religion to which the assigned person has belonged."
+    },
+    {
+        "relation": "per:age",
+        "text": "The relation name per:age: A reported age of the assigned person."
+    },
+    {
+        "relation": "org:website",
+        "text": "The relation name org:website: An official top level URL for the organization’s website."
+    },
+    {
+        "relation": "per:stateorprovinces_of_residence",
+        "text": "The relation name per:stateorprovinces_of_residence: Geopolitical entities at the state or province level in which the assigned person has lived. This slot must be filled with state or province names."
+    },
+    {
+        "relation": "org:member_of",
+        "text": "The relation name org:member_of: Organizations or geopolitical entities of which the assigned organization is a member itself (the inverse of org:members). For this slot, the assigned organization is a distinct entity from the parent organization and is generally capable of autonomously ending the membership relation."
+    },
+    {
+        "relation": "org:top_members/employees",
+        "text": "The relation name org:top_members/employees: The persons in high-level, leading positions at the assigned organization. Although the definition of ‘leading position’ is relatively broad, all Top Member/Employee positions should imply a level of decision-making authority over the entire assigned organization"
+    },
+    {
+        "relation": "per:countries_of_residence",
+        "text": "The relation name per:countries_of_residence: All countries in which the assigned person has lived."
+    },
+    {
+        "relation": "org:city_of_headquarters",
+        "text": "The relation name org:city_of_headquarters: Location of the headquarters of the assigned organization at the city, town, or village level. This slot must be filled with a city, town, or village name."
+    },
+    {
+        "relation": "org:members",
+        "text": "The relation name org:members: Organizations or Geopolitical entities that are members of the assigned organization (the inverse of org:member_of). While similar to org:subsidiaries, org:members is different because correct fillers are distinct entities that are generally capable of autonomously ending their membership with the assigned organization."
+    },
+    {
+        "relation": "org:country_of_headquarters",
+        "text": "The relation name org:country_of_headquarters: Countries in which the headquarters of the assigned organization are located. This slot must be filled with a country name."
+    },
+    {
+        "relation": "per:spouse",
+        "text": "The relation name per:spouse: The spouse(s) of the assigned person."
+    },
+    {
+        "relation": "org:stateorprovince_of_headquarters",
+        "text": "The relation name org:stateorprovince_of_headquarters: Location of the headquarters of the assigned organization at the state or province level. This slot must be filled with a state or province name."
+    },
+    {
+        "relation": "org:number_of_employees/members",
+        "text": "The relation name org:number_of_employees/members: The total number of people who are employed by or have membership in an organization."
+    },
+    {
+        "relation": "org:parents",
+        "text": "The relation name org:parents: Organizations or geopolitical entities of which the assigned organization is a subsidiary (the inverse of org:subsidiaries). While similar to org:member_of, org:parents is different because the assigned organization is subsumed under the parent organization(s), rather than being a distinct entity.."
+    },
+    {
+        "relation": "org:subsidiaries",
+        "text": "The relation name org:subsidiaries: Organizations that are subsidiaries of the assigned organization (the inverse of org:parents). Subsidiaries are subsumed under the assigned organization, rather than being distinct entities."
+    },
+    {
+        "relation": "per:origin",
+        "text": "The relation name per:origin: The nationality and/or ethnicity of the assigned person."
+    },
+    {
+        "relation": "org:political/religious_affiliation",
+        "text": "The relation name org:political/religious_affiliation: Ideological groups with which the organization is associated."
+    },
+    {
+        "relation": "per:other_family",
+        "text": "The relation name per:other_family: Family other than siblings, parents, children, and spouse (or former spouse). Correct fillers for this slot include brothers-in-law, sisters-in-law, grandparents, grandchildren, cousins, aunts, uncles, etc.."
+    },
+    {
+        "relation": "per:stateorprovince_of_birth",
+        "text": "The relation name per:stateorprovince_of_birth: The geopolitical entity at state or province level in which the assigned person was born. This slot must be filled with the name of a state or province."
+    },
+    {
+        "relation": "org:dissolved",
+        "text": "The relation name org:dissolved: The date on which the assigned organization was dissolved. When companies merge to form a new entity, the original companies should be considered as dissolved.."
+    },
+    {
+        "relation": "per:date_of_death",
+        "text": "The relation name per:date_of_death: The date of the assigned person’s death."
+    },
+    {
+        "relation": "org:shareholders",
+        "text": "The relation name org:shareholders: Any organization, person, or geopolitical entity that holds shares (majority or not) of the organization. Former shareholders are acceptable responses."
+    },
+    {
+        "relation": "per:alternate_names",
+        "text": "The relation name per:alternate_names: Names used to refer to the assigned person that are distinct from the \"official\" name (the namestring for your entity appearing at the top of the annotation or assessment tool). Alternate names may include aliases, stage names, alternate transliterations, abbreviations, alternate spellings, nicknames, or birth names."
+    },
+    {
+        "relation": "per:parents",
+        "text": "The relation name per:parents: The parents of the assigned person. In addition to biological parents, step-parents and adoptive parents are also acceptable answers."
+    },
+    {
+        "relation": "per:schools_attended",
+        "text": "The relation name per:schools_attended: Any school (college, high school, university, etc.) that the assigned person has attended."
+    },
+    {
+        "relation": "per:cause_of_death",
+        "text": "The relation name per:cause_of_death: The explicit cause of death for the assigned person."
+    },
+    {
+        "relation": "per:city_of_death",
+        "text": "The relation name per:city_of_death: The geopolitical entity at the level of city, town, village in which the assigned person died. This slot must be filled with a city, town, or village name."
+    },
+    {
+        "relation": "per:stateorprovince_of_death",
+        "text": "The relation name per:stateorprovince_of_death: The geopolitical entity at state or province level in which the assigned person died. This slot must be filled with a state or province name."
+    },
+    {
+        "relation": "org:founded",
+        "text": "The relation name org:founded: The date on which the assigned organization was founded."
+    },
+    {
+        "relation": "per:country_of_birth",
+        "text": "The relation name per:country_of_birth: The country in which the assigned person was born."
+    },
+    {
+        "relation": "per:date_of_birth",
+        "text": "The relation name per:date_of_birth: The date on which the assigned person was born."
+    },
+    {
+        "relation": "per:city_of_birth",
+        "text": "The relation name per:city_of_birth: The geopolitical entity at the municipality level (city, town, or village) in which the assigned person was born. This slot must be filled with the name of a city, town, or village."
+    },
+    {
+        "relation": "per:charges",
+        "text": "The relation name per:charges: The charges or crimes (alleged or convicted) of the assigned person."
+    }
+]

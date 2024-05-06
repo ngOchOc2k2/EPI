@@ -1,0 +1,162 @@
+[
+    {
+        "relation": "org:founded_by",
+        "text": "The relation org:founded_by denotes the person, organization, or geopolitical entity responsible for establishing the assigned organization. It indicates the entity that played a pivotal role in the establishment and formation of the organization."
+    },
+    {
+        "relation": "per:employee_of",
+        "text": "The relation per:employee_of indicates the organizations or geopolitical entities, including governments, where the assigned person has been employed or held membership. It signifies the professional or organizational affiliations of the person."
+    },
+    {
+        "relation": "org:alternate_names",
+        "text": "The relation org:alternate_names refers to any alternative names used to identify the assigned organization, distinct from its official name. These alternate names encompass former names, aliases, variations in spelling, acronyms, translations, and other designators such as stock ticker codes or airline call signs."
+    },
+    {
+        "relation": "per:cities_of_residence",
+        "text": "The relation per:cities_of_residence represents the geopolitical entities at the city, town, or village level where the assigned person has resided. It includes locations where the person has lived or maintained a residence."
+    },
+    {
+        "relation": "per:children",
+        "text": "The relation per:children refers to the offspring of the assigned person, including both biological and non-biological children such as adopted or step-children. It signifies the parental relationship of the person."
+    },
+    {
+        "relation": "per:title",
+        "text": "The relation per:title denotes the official or unofficial employment or membership positions held by the assigned person. It encompasses the designations or titles associated with the person's professional or organizational roles."
+    },
+    {
+        "relation": "per:siblings",
+        "text": "The relation per:siblings represents the brothers and sisters of the assigned person. It signifies the familial relationship between siblings, whether they share the same biological parents or not."
+    },
+    {
+        "relation": "per:religion",
+        "text": "The relation per:religion indicates the religious affiliation or belief system to which the assigned person adheres. It encompasses the religious practices, doctrines, or traditions followed by the person."
+    },
+    {
+        "relation": "per:age",
+        "text": "The relation per:age denotes the reported age of the assigned person at a particular point in time. It signifies the chronological age of the person, often recorded in years."
+    },
+    {
+        "relation": "org:website",
+        "text": "The relation org:website refers to the official top-level URL associated with the website of the assigned organization. It signifies the web address where information about the organization can be accessed."
+    },
+    {
+        "relation": "per:stateorprovinces_of_residence",
+        "text": "The relation per:stateorprovinces_of_residence represents the geopolitical entities at the state or province level where the assigned person has resided. It includes locations within specific states or provinces where the person has lived."
+    },
+    {
+        "relation": "org:member_of",
+        "text": "The relation org:member_of denotes the organizations or geopolitical entities to which the assigned organization belongs. It signifies the membership status of the organization within larger entities or associations."
+    },
+    {
+        "relation": "org:top_members/employees",
+        "text": "The relation org:top_members/employees indicates the individuals holding high-level, leading positions within the assigned organization. These positions typically entail decision-making authority and oversight over the organization's operations."
+    },
+    {
+        "relation": "per:countries_of_residence",
+        "text": "The relation per:countries_of_residence represents all countries where the assigned person has lived or maintained residence. It encompasses the various nations where the person has resided over time."
+    },
+    {
+        "relation": "org:city_of_headquarters",
+        "text": "The relation org:city_of_headquarters denotes the location, at the city, town, or village level, where the headquarters of the assigned organization is situated. It signifies the geographical location of the organization's primary administrative center."
+    },
+    {
+        "relation": "org:members",
+        "text": "The relation org:members refers to organizations or geopolitical entities that are members of the assigned organization. It signifies the entities that hold membership status within the assigned organization."
+    },
+    {
+        "relation": "org:country_of_headquarters",
+        "text": "The relation org:country_of_headquarters represents the countries where the headquarters of the assigned organization are located. It signifies the geopolitical locations of the organization's primary administrative center."
+    },
+    {
+        "relation": "per:spouse",
+        "text": "The relation per:spouse denotes the husband or wife of the assigned person, indicating the marital relationship between them. It encompasses both current and former spouses."
+    },
+    {
+        "relation": "org:stateorprovince_of_headquarters",
+        "text": "The relation org:stateorprovince_of_headquarters represents the geopolitical entities at the state or province level where the headquarters of the assigned organization are located. It signifies the specific states or provinces where the organization's primary administrative center is situated."
+    },
+    {
+        "relation": "org:number_of_employees/members",
+        "text": "The relation org:number_of_employees/members denotes the total count of individuals who are employed by or hold membership in the assigned organization. It signifies the size or scale of the organization in terms of its workforce or membership."
+    },
+    {
+        "relation": "org:parents",
+        "text": "The relation org:parents indicates the organizations or geopolitical entities that are the parent entities of the assigned organization. It signifies the hierarchical relationship where the assigned organization is subsumed under larger parent entities."
+    },
+    {
+        "relation": "org:subsidiaries",
+        "text": "The relation org:subsidiaries refers to organizations that are subsidiaries of the assigned organization. It signifies the subordinate relationship where the subsidiaries are under the control or ownership of the assigned organization."
+    },
+    {
+        "relation": "per:origin",
+        "text": "The relation per:origin denotes the nationality and/or ethnicity of the assigned person, indicating their cultural or ancestral background. It encompasses the origins or ancestral heritage of the person."
+    },
+    {
+        "relation": "org:political/religious_affiliation",
+        "text": "The relation org:political/religious_affiliation indicates the ideological groups with which the organization is associated, either politically or religiously. It signifies the affiliations or allegiances of the organization to specific ideological beliefs or movements."
+    },
+    {
+        "relation": "per:other_family",
+        "text": "The relation per:other_family refers to family members other than siblings, parents, children, and spouses (or former spouses) of the assigned person. It includes relatives such as brothers-in-law, sisters-in-law, grandparents, grandchildren, cousins, aunts, uncles, etc."
+    },
+    {
+        "relation": "per:stateorprovince_of_birth",
+        "text": "The relation per:stateorprovince_of_birth represents the geopolitical entity at the state or province level where the assigned person was born. It signifies the specific state or province where the person's birth occurred."
+    },
+    {
+        "relation": "org:dissolved",
+        "text": "The relation org:dissolved denotes the date on which the assigned organization was dissolved, indicating the termination or closure of its operations. It signifies the end of the organization's existence as a legal entity."
+    },
+    {
+        "relation": "per:date_of_death",
+        "text": "The relation per:date_of_death represents the date of the assigned person's death, indicating the specific day when the person passed away. It signifies the end of the person's life."
+    },
+    {
+        "relation": "org:shareholders",
+        "text": "The relation org:shareholders refers to any organizations, individuals, or geopolitical entities that hold shares, either majority or minority, in the assigned organization. It signifies the ownership interests in the organization."
+    },
+    {
+        "relation": "per:alternate_names",
+        "text": "The relation per:alternate_names denotes alternative names used to identify the assigned person, distinct from their official name. It includes aliases, stage names, alternate transliterations, abbreviations, variations in spelling, nicknames, or birth names."
+    },
+    {
+        "relation": "per:parents",
+        "text": "The relation per:parents represents the parents of the assigned person, including biological parents, step-parents, or adoptive parents. It signifies the parental lineage and familial relationships of the person."
+    },
+    {
+        "relation": "per:schools_attended",
+        "text": "The relation per:schools_attended refers to any educational institutions, such as colleges, high schools, or universities, that the assigned person has attended. It signifies the academic or educational background of the person."
+    },
+    {
+        "relation": "per:cause_of_death",
+        "text": "The relation name per:cause_of_death: The explicit cause of death for the assigned person."
+    },
+    {
+        "relation": "per:city_of_death",
+        "text": "The relation per:city_of_death represents the geopolitical entity at the city, town, or village level where the assigned person died. It signifies the specific location where the person passed away."
+    },
+    {
+        "relation": "per:stateorprovince_of_death",
+        "text": "The relation per:stateorprovince_of_death denotes the geopolitical entity at the state or province level where the assigned person died. It signifies the specific state or province where the person's death occurred."
+    },
+    {
+        "relation": "org:founded",
+        "text": "The relation org:founded indicates the date on which the assigned organization was founded or established. It signifies the inception or creation date of the organization."
+    },
+    {
+        "relation": "per:country_of_birth",
+        "text": "The relation per:country_of_birth represents the country where the assigned person was born. It signifies the nationality or place of birth of the person."
+    },
+    {
+        "relation": "per:date_of_birth",
+        "text": "The relation per:date_of_birth denotes the date on which the assigned person was born, indicating the specific day of their birth. It signifies the person's date of birth."
+    },
+    {
+        "relation": "per:city_of_birth",
+        "text": "The relation per:city_of_birth represents the geopolitical entity at the municipality level (city, town, or village) where the assigned person was born. It signifies the specific location of the person's birth."
+    },
+    {
+        "relation": "per:charges",
+        "text": "The relation per:charges indicates the charges or crimes, whether alleged or convicted, associated with the assigned person. It encompasses the legal accusations or offenses attributed to the person."
+    }
+]

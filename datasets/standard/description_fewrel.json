@@ -1,0 +1,3722 @@
+[
+    {
+        "relation": "P2384",
+        "text": "formalization of the statement contains a bound variable in this class",
+        "short": "statement describes"
+    },
+    {
+        "relation": "P2388",
+        "text": "position of the head of this item",
+        "short": "office held by head of the organization"
+    },
+    {
+        "relation": "P2389",
+        "text": "No description defined",
+        "short": "organization directed from the office or person"
+    },
+    {
+        "relation": "P2634",
+        "text": "person who posed during the creation of a work, whether or not that person is eventually depicted as oneself",
+        "short": "sitter"
+    },
+    {
+        "relation": "P607",
+        "text": "battles, wars or other military engagements in which the person or item participated",
+        "short": "conflict"
+    },
+    {
+        "relation": "P608",
+        "text": "exhibitions where the item is or was displayed",
+        "short": "exhibition history"
+    },
+    {
+        "relation": "P609",
+        "text": "location of the terminus of a linear feature",
+        "short": "terminus location"
+    },
+    {
+        "relation": "P237",
+        "text": "subject's coat of arms",
+        "short": "coat of arms"
+    },
+    {
+        "relation": "P2925",
+        "text": "domain(s) which this saint or deity controls or protects",
+        "short": "domain of saint or deity"
+    },
+    {
+        "relation": "P927",
+        "text": "where in the body does this anatomical feature lie",
+        "short": "anatomical location"
+    },
+    {
+        "relation": "P2319",
+        "text": "people or other entities which are qualified to participate in the subject election",
+        "short": "elector"
+    },
+    {
+        "relation": "P2318",
+        "text": "participant for whom this is their debut appearance in a series of events",
+        "short": "debut participant"
+    },
+    {
+        "relation": "P560",
+        "text": "qualifier to indicate the direction of the parent statement's value relative to the subject item",
+        "short": "direction"
+    },
+    {
+        "relation": "P925",
+        "text": "neuron connects on its presynaptic end to",
+        "short": "presynaptic connection"
+    },
+    {
+        "relation": "P3967",
+        "text": "final event of a competition",
+        "short": "final event"
+    },
+    {
+        "relation": "P3966",
+        "text": "programming paradigm in which a programming language is classified",
+        "short": "programming paradigm"
+    },
+    {
+        "relation": "P3320",
+        "text": "member(s) of the board for the organization",
+        "short": "board member"
+    },
+    {
+        "relation": "P3969",
+        "text": "manually coded form of this language",
+        "short": "signed form"
+    },
+    {
+        "relation": "P1462",
+        "text": "organisation that published or maintains the standard governing an item",
+        "short": "standards body"
+    },
+    {
+        "relation": "P4185",
+        "text": "identifying element typically depicted as accompanying or worn by this religious figure, hero, fictional or historical character",
+        "short": "iconographic symbol"
+    },
+    {
+        "relation": "P127",
+        "text": "owner of the subject",
+        "short": "owned by"
+    },
+    {
+        "relation": "P126",
+        "text": "person or organization in charge of keeping the subject (for instance an infrastructure) in functioning order",
+        "short": "maintained by"
+    },
+    {
+        "relation": "P88",
+        "text": "person or organization that commissioned this work",
+        "short": "commissioned by"
+    },
+    {
+        "relation": "P123",
+        "text": "organization or person responsible for publishing books, periodicals, games or software",
+        "short": "publisher"
+    },
+    {
+        "relation": "P122",
+        "text": "subject's government",
+        "short": "basic form of government"
+    },
+    {
+        "relation": "P121",
+        "text": "equipment, installation or service operated by the subject",
+        "short": "item operated"
+    },
+    {
+        "relation": "P81",
+        "text": "railway or public transport line(s) subject is directly connected to; use as a qualifier to P197",
+        "short": "connecting line"
+    },
+    {
+        "relation": "P4345",
+        "text": "person leading the archaeological or anthropological excavation at this site",
+        "short": "excavation director"
+    },
+    {
+        "relation": "P4614",
+        "text": "area where precipitation collects and drains off into a common outlet, such as into a river, bay, or other body of water",
+        "short": "drainage basin"
+    },
+    {
+        "relation": "P86",
+        "text": "person(s) who wrote the music [for lyricist, use \"lyrics by\" (P676)]",
+        "short": "composer"
+    },
+    {
+        "relation": "P129",
+        "text": "physical entity that the subject interacts with",
+        "short": "physically interacts with"
+    },
+    {
+        "relation": "P128",
+        "text": "process regulated by a protein or RNA in molecular biology",
+        "short": "regulates (molecular biology)"
+    },
+    {
+        "relation": "P2541",
+        "text": "area this organisation operates in, serves or has responsibility for",
+        "short": "operating area"
+    },
+    {
+        "relation": "P2546",
+        "text": "close companion of a fictional character",
+        "short": "sidekick of"
+    },
+    {
+        "relation": "P2545",
+        "text": "type of bowling employed by a cricketer",
+        "short": "bowling style"
+    },
+    {
+        "relation": "P161",
+        "text": "actor in the subject production [use \"character role\" (P453) and/or \"name of the character role\" (P4633) as qualifiers] [use \"voice actor\" (P725) for voice-only role]",
+        "short": "cast member"
+    },
+    {
+        "relation": "P1408",
+        "text": "place that a radio/TV station is licensed/required to broadcast to",
+        "short": "licensed to broadcast to"
+    },
+    {
+        "relation": "P1018",
+        "text": "regulatory body of a language",
+        "short": "language regulatory body"
+    },
+    {
+        "relation": "P518",
+        "text": "part, aspect, or form of the item to which the claim applies",
+        "short": "applies to part"
+    },
+    {
+        "relation": "P516",
+        "text": "equipment or engine used to power the subject",
+        "short": "powered by"
+    },
+    {
+        "relation": "P1403",
+        "text": "for animals: the combination (binomen or trinomen) where the species-group name used in this taxon name was first published",
+        "short": "original combination"
+    },
+    {
+        "relation": "P514",
+        "text": "stratigraphic relation in which two units overlap each other marginally",
+        "short": "interleaves with"
+    },
+    {
+        "relation": "P512",
+        "text": "academic degree that the person holds",
+        "short": "academic degree"
+    },
+    {
+        "relation": "P1013",
+        "text": "property by which a distinction or classification is made",
+        "short": "criterion used"
+    },
+    {
+        "relation": "P511",
+        "text": "word or expression used before a name, in addressing or referring to a person",
+        "short": "honorific prefix"
+    },
+    {
+        "relation": "P2358",
+        "text": "standard part of the name of a Roman, link to items for specific Roman praenomen only.",
+        "short": "Roman praenomen"
+    },
+    {
+        "relation": "P2445",
+        "text": "relation between two metaclasses: instances of this metaclass are likely to be subclasses of classes that are instances of the target metaclass",
+        "short": "metasubclass of"
+    },
+    {
+        "relation": "P3190",
+        "text": "anatomical structures innervated by this nerve",
+        "short": "innervates"
+    },
+    {
+        "relation": "P1889",
+        "text": "item that is different from another item, with which it is often confused",
+        "short": "different from"
+    },
+    {
+        "relation": "P1884",
+        "text": "person's hair color. Use P585 as qualifier if there's more than one value.",
+        "short": "hair color"
+    },
+    {
+        "relation": "P1885",
+        "text": "principal church of a religious district",
+        "short": "cathedral"
+    },
+    {
+        "relation": "P1880",
+        "text": "scale by which a phenomenon is measured",
+        "short": "measured by"
+    },
+    {
+        "relation": "P1881",
+        "text": "Wikimedia page with the list of characters for this work",
+        "short": "list of characters"
+    },
+    {
+        "relation": "P1068",
+        "text": "instruction set on which the processor architecture is based",
+        "short": "instruction set"
+    },
+    {
+        "relation": "P16",
+        "text": "system (or specific country specific road type) of which the highway is a part",
+        "short": "highway system"
+    },
+    {
+        "relation": "P1706",
+        "text": "qualifier to specify the item that this property is shared with",
+        "short": "together with"
+    },
+    {
+        "relation": "P19",
+        "text": "most specific known (e.g. city instead of country, or hospital instead of city) birth location of a person, animal or fictional character",
+        "short": "place of birth"
+    },
+    {
+        "relation": "P4661",
+        "text": "reservoir created upstream of a dam by this dam",
+        "short": "reservoir created"
+    },
+    {
+        "relation": "P1066",
+        "text": "person who has taught this person",
+        "short": "student of"
+    },
+    {
+        "relation": "P4149",
+        "text": "species formed by losing a proton (H⁺)",
+        "short": "conjugate base"
+    },
+    {
+        "relation": "P1536",
+        "text": "immediate cause of this effect",
+        "short": "immediate cause of"
+    },
+    {
+        "relation": "P1537",
+        "text": "thing that is significantly influenced by this cause, but does not directly result from it.  See 'Help:Modeling causes' for examples and discussion.",
+        "short": "contributing factor of"
+    },
+    {
+        "relation": "P1535",
+        "text": "item or concept that makes use of the subject (use sub-properties when appropriate)",
+        "short": "used by"
+    },
+    {
+        "relation": "P1532",
+        "text": "country a person or a team represents when playing a sport",
+        "short": "country for sport"
+    },
+    {
+        "relation": "P1533",
+        "text": "last name that is the same as a given first name. Use on items for given names",
+        "short": "family name identical to this given name"
+    },
+    {
+        "relation": "P1531",
+        "text": "No description defined",
+        "short": "parent of this hybrid, breed, or cultivar"
+    },
+    {
+        "relation": "P505",
+        "text": "general manager of a sports team. If they are also an on-field manager use P286 instead",
+        "short": "general manager"
+    },
+    {
+        "relation": "P3592",
+        "text": "No description defined",
+        "short": "Saros cycle of eclipse"
+    },
+    {
+        "relation": "P468",
+        "text": "rank system used in several board games (e.g. go, shogi, renju), martial arts (e.g. judo, kendo, wushu) and some other games",
+        "short": "dan/kyu rank"
+    },
+    {
+        "relation": "P469",
+        "text": "lakes, reservoirs, waterfalls the river flows through",
+        "short": "lakes on river"
+    },
+    {
+        "relation": "P1080",
+        "text": "subject's fictional entity is in the object narrative. See also P1441 (present in work) and P1445 (fictional universe described in)",
+        "short": "from fictional universe"
+    },
+    {
+        "relation": "P1429",
+        "text": "pet that a person owns",
+        "short": "has pet"
+    },
+    {
+        "relation": "P462",
+        "text": "color of subject",
+        "short": "color"
+    },
+    {
+        "relation": "P588",
+        "text": "substance used by the subject to dissipate excess thermal energy",
+        "short": "coolant"
+    },
+    {
+        "relation": "P460",
+        "text": "this item is said to be the same as that item, but the statement is disputed",
+        "short": "said to be the same as"
+    },
+    {
+        "relation": "P461",
+        "text": "item that is the opposite of this item",
+        "short": "opposite of"
+    },
+    {
+        "relation": "P466",
+        "text": "a person or organization occupying property",
+        "short": "occupant"
+    },
+    {
+        "relation": "P467",
+        "text": "indicates that an act or bill was passed by a legislature.  The value can be a particular session of the legislature",
+        "short": "legislated by"
+    },
+    {
+        "relation": "P912",
+        "text": "the subject item has this type of facility, e.g. toilet, car park",
+        "short": "has facility"
+    },
+    {
+        "relation": "P770",
+        "text": "item which caused the destruction of the subject item",
+        "short": "cause of destruction"
+    },
+    {
+        "relation": "P3349",
+        "text": "what the vehicle or class of vehicles is or was designed to carry",
+        "short": "designed to carry"
+    },
+    {
+        "relation": "P1830",
+        "text": "entities owned by the subject",
+        "short": "owner of"
+    },
+    {
+        "relation": "P868",
+        "text": "foods usually during the ceremony or associated with a certain settlement",
+        "short": "foods traditionally associated"
+    },
+    {
+        "relation": "P4000",
+        "text": "morphology of the fruit of this taxon, as defined in botany",
+        "short": "has fruit type"
+    },
+    {
+        "relation": "P647",
+        "text": "which team the player was drafted by",
+        "short": "drafted by"
+    },
+    {
+        "relation": "P642",
+        "text": "qualifier stating that a statement applies within the scope of a particular item",
+        "short": "of"
+    },
+    {
+        "relation": "P641",
+        "text": "sport in which the subject participates or belongs to",
+        "short": "sport"
+    },
+    {
+        "relation": "P885",
+        "text": "main source of a river or stream",
+        "short": "origin of the watercourse"
+    },
+    {
+        "relation": "P880",
+        "text": "central processing unit found within the subject item",
+        "short": "CPU"
+    },
+    {
+        "relation": "P768",
+        "text": "electoral district this person is representing, or of the office that is being contested. Use as qualifier for \"position held\" (P39) or \"office contested\" (P541)",
+        "short": "electoral district"
+    },
+    {
+        "relation": "P765",
+        "text": "the surface on which the tournament is played",
+        "short": "surface played on"
+    },
+    {
+        "relation": "P767",
+        "text": "person or organization that contributed to a subject: co-creator of a creative work or subject",
+        "short": "contributor(s) to the creative work or subject"
+    },
+    {
+        "relation": "P3448",
+        "text": "subject has the object as their stepparent",
+        "short": "stepparent"
+    },
+    {
+        "relation": "P3447",
+        "text": "the website automatically crawls or mirrors another website as its data source",
+        "short": "mirrors data from"
+    },
+    {
+        "relation": "P3113",
+        "text": "expected part that the item does not have (for qualities, use P6477)",
+        "short": "does not have part"
+    },
+    {
+        "relation": "P3842",
+        "text": "the item was located in the territory of this present-day administrative unit; however the two did not at any point coexist in time",
+        "short": "located in present-day administrative territorial entity"
+    },
+    {
+        "relation": "P169",
+        "text": "highest-ranking corporate officer appointed as the CEO within an organization",
+        "short": "chief executive officer"
+    },
+    {
+        "relation": "P241",
+        "text": "branch to which this military unit, award, office, or person belongs, e.g. Royal Navy",
+        "short": "military branch"
+    },
+    {
+        "relation": "P163",
+        "text": "subject's flag",
+        "short": "flag"
+    },
+    {
+        "relation": "P1906",
+        "text": "political office that is fulfilled by the head of state of this item",
+        "short": "office held by head of state"
+    },
+    {
+        "relation": "P248",
+        "text": "to be used in the references field to refer to the information document or database in which a claim is made; for qualifiers use P805",
+        "short": "stated in"
+    },
+    {
+        "relation": "P167",
+        "text": "the item which replaced this building or structure, at the same geographic location",
+        "short": "structure replaced by"
+    },
+    {
+        "relation": "P166",
+        "text": "award or recognition received by a person, organisation or creative work",
+        "short": "award received"
+    },
+    {
+        "relation": "P2882",
+        "text": "competitor or team relegated at the end of competition",
+        "short": "relegated"
+    },
+    {
+        "relation": "P2881",
+        "text": "competitor or team promoted at the end of competition",
+        "short": "promoted"
+    },
+    {
+        "relation": "P1210",
+        "text": "supercharger or turbocharger used by an engine",
+        "short": "supercharger"
+    },
+    {
+        "relation": "P2341",
+        "text": "area or ethnic group that a language, folk dance, cooking style, food or other cultural expression is found (or was originally found)",
+        "short": "indigenous to"
+    },
+    {
+        "relation": "P2348",
+        "text": "time period (historic period or era, sports season, theatre season, legislative period etc.) in which the subject occurred",
+        "short": "time period"
+    },
+    {
+        "relation": "P2679",
+        "text": "person who wrote the preface, foreword, or introduction of the book but who isn't an author of the rest of the book",
+        "short": "author of foreword"
+    },
+    {
+        "relation": "P2155",
+        "text": "the mineral forms a continous (true) or discontinous \"solid solution series\" with another mineral",
+        "short": "solid solution series with"
+    },
+    {
+        "relation": "P2157",
+        "text": "structure size (as advertised or listed) of a microchip",
+        "short": "lithography"
+    },
+    {
+        "relation": "P2152",
+        "text": "particle with the same rest mass and opposite charges",
+        "short": "antiparticle"
+    },
+    {
+        "relation": "P2159",
+        "text": "problem that this algorithm or method solves",
+        "short": "solves"
+    },
+    {
+        "relation": "P2012",
+        "text": "type of food served by a restaurant or restaurant chain",
+        "short": "cuisine"
+    },
+    {
+        "relation": "P2408",
+        "text": "historical, contemporary or future period the work is set in",
+        "short": "set in period"
+    },
+    {
+        "relation": "P3938",
+        "text": "person or organisation that coined the name; use as qualifier for P2561 and its subproperties",
+        "short": "named by"
+    },
+    {
+        "relation": "P3833",
+        "text": "diaspora that a cultural group belongs to",
+        "short": "diaspora"
+    },
+    {
+        "relation": "P2822",
+        "text": "chemical or industrial process which produces the item as a by-product",
+        "short": "by-product of"
+    },
+    {
+        "relation": "P3931",
+        "text": "person or organisation who holds the copyright of a work according to the Berne Convention",
+        "short": "copyright holder"
+    },
+    {
+        "relation": "P4628",
+        "text": "classification of viruses of the International Committee on Taxonomy of Viruses by the molecular composition of the virus genome (DNA, RNA, double or single stranded and translational polarity)",
+        "short": "ICTV virus genome composition"
+    },
+    {
+        "relation": "P4545",
+        "text": "body part that originates from the same tissue or cell during fetal development in the opposing sex",
+        "short": "sexually homologous with"
+    },
+    {
+        "relation": "P1990",
+        "text": "taxa, preferably species, present at a zoo, botanical garden,  collection, or other institution. NOT specific animals, not for any geographic location",
+        "short": "species kept"
+    },
+    {
+        "relation": "P1620",
+        "text": "party who initiates a lawsuit",
+        "short": "plaintiff"
+    },
+    {
+        "relation": "P2989",
+        "text": "case used in this language",
+        "short": "has grammatical case"
+    },
+    {
+        "relation": "P58",
+        "text": "person(s) who wrote the script for subject item",
+        "short": "screenwriter"
+    },
+    {
+        "relation": "P59",
+        "text": "the area of the celestial sphere of which the subject is a part (from a scientific standpoint, not an astrological one)",
+        "short": "constellation"
+    },
+    {
+        "relation": "P1625",
+        "text": "this work has the melody of the following work",
+        "short": "has melody"
+    },
+    {
+        "relation": "P54",
+        "text": "sports teams or clubs that the subject currently represents or formerly represented",
+        "short": "member of sports team"
+    },
+    {
+        "relation": "P1999",
+        "text": "degree of endangerment of a language conferred by the UNESCO Atlas of World Languages in Danger",
+        "short": "UNESCO language status"
+    },
+    {
+        "relation": "P57",
+        "text": "director(s) of film, TV-series, stageplay, video game or similar",
+        "short": "director"
+    },
+    {
+        "relation": "P50",
+        "text": "main creator(s) of a written work (use on works, not humans); use P2093 when Wikidata item is unknown or does not exist",
+        "short": "author"
+    },
+    {
+        "relation": "P53",
+        "text": "family, including dynasty and nobility houses. Not family name (use P734 for family name).",
+        "short": "family"
+    },
+    {
+        "relation": "P545",
+        "text": "person that lit the torch at an event, like the Olympic Games",
+        "short": "torch lit by"
+    },
+    {
+        "relation": "P547",
+        "text": "what the place, monument, memorial, or holiday, commemorates",
+        "short": "commemorates"
+    },
+    {
+        "relation": "P546",
+        "text": "intended docking port for a spacecraft",
+        "short": "docking port"
+    },
+    {
+        "relation": "P541",
+        "text": "title of office which election will determine the next holder of",
+        "short": "office contested"
+    },
+    {
+        "relation": "P543",
+        "text": "person(s) that made the oath at an event, like the Olympic Games",
+        "short": "oath made by"
+    },
+    {
+        "relation": "P542",
+        "text": "person that officially opened the event or place",
+        "short": "officially opened by"
+    },
+    {
+        "relation": "P427",
+        "text": "the type genus of this family (or subfamily, etc), or the type species of this genus (or subgenus, etc)",
+        "short": "taxonomic type"
+    },
+    {
+        "relation": "P1479",
+        "text": "thing that significantly influenced, but did not directly cause, this outcome or effect.  Used in conjunction with 'has cause' and 'has immediate cause'.  See '[[Help:Modeling causes]]'.",
+        "short": "has contributing factor"
+    },
+    {
+        "relation": "P425",
+        "text": "activity corresponding to this occupation (use only for occupations - for people use Property:P101, for profession use P425, for companies use P452)",
+        "short": "field of this occupation"
+    },
+    {
+        "relation": "P930",
+        "text": "electrification system scheme and/or voltage",
+        "short": "type of electrification"
+    },
+    {
+        "relation": "P931",
+        "text": "territorial entity or entities served by this transport hub (airport, train station, etc.)",
+        "short": "place served by transport hub"
+    },
+    {
+        "relation": "P1574",
+        "text": "property for manuscripts, autographs, incunabula, distinct printed copies",
+        "short": "exemplar of"
+    },
+    {
+        "relation": "P421",
+        "text": "time zone for this item",
+        "short": "located in time zone"
+    },
+    {
+        "relation": "P3716",
+        "text": "social class as recognized in traditional or state law",
+        "short": "social classification"
+    },
+    {
+        "relation": "P1660",
+        "text": "initial patient in the population of an epidemiological investigation",
+        "short": "has index case"
+    },
+    {
+        "relation": "P2715",
+        "text": "qualifier for statements in position held to link the election in which a person gained a position from, or reelection in which the position was confirmed",
+        "short": "elected in"
+    },
+    {
+        "relation": "P2652",
+        "text": "commercial partnership between this organization and another organization or institution",
+        "short": "partnership with"
+    },
+    {
+        "relation": "P2650",
+        "text": "item of special or vested interest to this person or organisation",
+        "short": "interested in"
+    },
+    {
+        "relation": "P3494",
+        "text": "No description defined",
+        "short": "points classification"
+    },
+    {
+        "relation": "P3719",
+        "text": "organization that acts as regulator of an activity, financial market, or stock exchange",
+        "short": "regulated by"
+    },
+    {
+        "relation": "P3491",
+        "text": "the anatomic entity to which the end of a muscle is anchored",
+        "short": "muscle insertion"
+    },
+    {
+        "relation": "P3490",
+        "text": "the anatomic entity to which the beginning of a muscle is anchored",
+        "short": "muscle origin"
+    },
+    {
+        "relation": "P1877",
+        "text": "artist whose work strongly inspired/ was copied in this item",
+        "short": "after a work by"
+    },
+    {
+        "relation": "P1876",
+        "text": "vessel involved in this mission, voyage or event",
+        "short": "vessel"
+    },
+    {
+        "relation": "P1875",
+        "text": "express a relationship between a subject and their agent",
+        "short": "represented by"
+    },
+    {
+        "relation": "P3301",
+        "text": "the channel, network, website or service that broadcast this item over radio, TV or the Internet",
+        "short": "broadcast by"
+    },
+    {
+        "relation": "P3300",
+        "text": "the person who directs a musical group, orchestra or chorus",
+        "short": "musical conductor"
+    },
+    {
+        "relation": "P1050",
+        "text": "any state relevant to the health of an organism, including diseases and positive conditions",
+        "short": "medical condition"
+    },
+    {
+        "relation": "P1269",
+        "text": "topic of which this item is an aspect, item that offers a broader perspective on the same topic",
+        "short": "facet of"
+    },
+    {
+        "relation": "P1057",
+        "text": "chromosome on which an entity is localized",
+        "short": "chromosome"
+    },
+    {
+        "relation": "P1056",
+        "text": "material or product produced by a government agency, business, industry, facility, or process",
+        "short": "product or material produced"
+    },
+    {
+        "relation": "P941",
+        "text": "work, human, place or event which inspired this creative work or fictional entity",
+        "short": "inspired by"
+    },
+    {
+        "relation": "P943",
+        "text": "the programmer that wrote the piece of software",
+        "short": "programmer"
+    },
+    {
+        "relation": "P942",
+        "text": "the theme music/song used by the item",
+        "short": "theme music"
+    },
+    {
+        "relation": "P945",
+        "text": "the country (or other power) that the person, or organization, served",
+        "short": "allegiance"
+    },
+    {
+        "relation": "P944",
+        "text": "the Code that governs the scientific name of this taxon",
+        "short": "Code of nomenclature"
+    },
+    {
+        "relation": "P1196",
+        "text": "general circumstances of a person's death; e.g. natural causes, accident, suicide, homicide, pending investigation or special 'unknown value'.  Use 'cause of death' (P509) for more immediate or underlying causes, e.g. heart attack, car accident",
+        "short": "manner of death"
+    },
+    {
+        "relation": "P720",
+        "text": "spectral classifications of asteroids based on  spectral shape, color, and albedo",
+        "short": "asteroid spectral type"
+    },
+    {
+        "relation": "P1372",
+        "text": "software library in another programming language provided by the subject software binding",
+        "short": "binding of software library"
+    },
+    {
+        "relation": "P689",
+        "text": "type of organism which a condition or disease afflicts",
+        "short": "afflicts"
+    },
+    {
+        "relation": "P725",
+        "text": "performer of a spoken role in a creative work such as animation, video game, radio drama, or dubbing over [use \"character role\" (P453) as qualifier] [use \"cast member\" (P161) for live acting]",
+        "short": "voice actor"
+    },
+    {
+        "relation": "P2849",
+        "text": "links a biologic/biochemical entity with the entity it has been produced by",
+        "short": "produced by"
+    },
+    {
+        "relation": "P1376",
+        "text": "country, state, department, canton or other administrative division of which the municipality is the governmental seat",
+        "short": "capital of"
+    },
+    {
+        "relation": "P726",
+        "text": "person or party that is an option for an office in an election",
+        "short": "candidate"
+    },
+    {
+        "relation": "P682",
+        "text": "is involved in the biological process",
+        "short": "biological process"
+    },
+    {
+        "relation": "P3085",
+        "text": "this event qualifies for that event",
+        "short": "qualifies for event"
+    },
+    {
+        "relation": "P680",
+        "text": "represents gene ontology function annotations",
+        "short": "molecular function"
+    },
+    {
+        "relation": "P681",
+        "text": "component of the cell in which this item is present",
+        "short": "cell component"
+    },
+    {
+        "relation": "P3080",
+        "text": "game artist(s) that produced art assets for a role-playing games, collectible card games, video game, etc.",
+        "short": "game artist"
+    },
+    {
+        "relation": "P3081",
+        "text": "physical items damaged by this event",
+        "short": "damaged"
+    },
+    {
+        "relation": "P3082",
+        "text": "physical items destroyed by this event",
+        "short": "destroyed"
+    },
+    {
+        "relation": "P2872",
+        "text": "official tourist office of this destination",
+        "short": "tourist office"
+    },
+    {
+        "relation": "P4733",
+        "text": "item for the sound generated by the subject, for instance the cry of an animal",
+        "short": "produced sound"
+    },
+    {
+        "relation": "P3403",
+        "text": "this item has the same boundary as the target item; area associated with (this) entity is identical with the area associated with that entity",
+        "short": "coextensive with"
+    },
+    {
+        "relation": "P2975",
+        "text": "an organism harboring another organism or organisms on or in itself",
+        "short": "host"
+    },
+    {
+        "relation": "P2974",
+        "text": "the natural environment in which an organism lives, or the physical environment that surrounds a species population",
+        "short": "habitat"
+    },
+    {
+        "relation": "P834",
+        "text": "depot which serves this railway line, not public stations",
+        "short": "train depot"
+    },
+    {
+        "relation": "P3019",
+        "text": "type of signalling used on this railway line",
+        "short": "railway signalling system"
+    },
+    {
+        "relation": "P3018",
+        "text": "the protected area a place or geographical feature belongs to",
+        "short": "located in protected area"
+    },
+    {
+        "relation": "P831",
+        "text": "parent club of this team",
+        "short": "parent club"
+    },
+    {
+        "relation": "P833",
+        "text": "station to which passengers can transfer to from this station, normally without extra expense",
+        "short": "interchange station"
+    },
+    {
+        "relation": "P1283",
+        "text": "item with a list of films a person has contributed to. Don't use to add film items. Instead, add actors as cast on items for films the participated in.",
+        "short": "filmography"
+    },
+    {
+        "relation": "P3015",
+        "text": "team or crew that is kept ready to act as reserve",
+        "short": "backup or reserve team or crew"
+    },
+    {
+        "relation": "P1995",
+        "text": "main specialty that diagnoses, prevent human illness, injury and other physical and mental impairments",
+        "short": "health specialty"
+    },
+    {
+        "relation": "P807",
+        "text": "subject was founded or started by separating from identified object",
+        "short": "separated from"
+    },
+    {
+        "relation": "P2378",
+        "text": "organisation that issues or allocates an identifier",
+        "short": "issued by"
+    },
+    {
+        "relation": "P2375",
+        "text": "partner particle, in supersymmetry; inverse of \"superpartner of\"",
+        "short": "has superpartner"
+    },
+    {
+        "relation": "P800",
+        "text": "notable scientific, artistic or literary work, or other work of significance among subject's works",
+        "short": "notable work"
+    },
+    {
+        "relation": "P2376",
+        "text": "partner particle, in supersymmetry; inverse of \"has superpartner\"",
+        "short": "superpartner of"
+    },
+    {
+        "relation": "P206",
+        "text": "sea, lake or river",
+        "short": "located in or next to body of water"
+    },
+    {
+        "relation": "P1304",
+        "text": "country's central bank",
+        "short": "central bank"
+    },
+    {
+        "relation": "P205",
+        "text": "country that have drainage to/from or border the body of water",
+        "short": "basin country"
+    },
+    {
+        "relation": "P750",
+        "text": "distributor of a creative work; distributor for a record label",
+        "short": "distributor"
+    },
+    {
+        "relation": "P751",
+        "text": "feature introduced by this version of a product item",
+        "short": "introduced feature"
+    },
+    {
+        "relation": "P1303",
+        "text": "musical instrument that a person plays",
+        "short": "instrument"
+    },
+    {
+        "relation": "P1302",
+        "text": "major cities that a road serves",
+        "short": "primary destinations"
+    },
+    {
+        "relation": "P371",
+        "text": "someone who takes a main role in presenting a radio or television program or a performing arts show",
+        "short": "presenter"
+    },
+    {
+        "relation": "P611",
+        "text": "order of monks or nuns to which an individual or religious house belongs",
+        "short": "religious order"
+    },
+    {
+        "relation": "P610",
+        "text": "point with highest elevation in a region, on a path, of a race",
+        "short": "highest point"
+    },
+    {
+        "relation": "P208",
+        "text": "branch of government for the daily administration of the state",
+        "short": "executive body"
+    },
+    {
+        "relation": "P209",
+        "text": "supreme judicial body within a country, administrative division, or other organization",
+        "short": "highest judicial authority"
+    },
+    {
+        "relation": "P3275",
+        "text": "person credited as the storyboard artist of this work",
+        "short": "storyboard artist"
+    },
+    {
+        "relation": "P1629",
+        "text": "relationship represented by the property",
+        "short": "subject item of this property"
+    },
+    {
+        "relation": "P3279",
+        "text": "leader of a sports tournament in one of statistical qualities (points, assists, rebounds etc.). Don't use for overall winner. Use a qualifier to link to the item about the quality.",
+        "short": "statistical leader"
+    },
+    {
+        "relation": "P3975",
+        "text": "leader of a political or international organization, sometimes below the chairperson (P488)",
+        "short": "secretary general"
+    },
+    {
+        "relation": "P1652",
+        "text": "referee or umpire of a match",
+        "short": "referee"
+    },
+    {
+        "relation": "P1657",
+        "text": "US film classification administered by the Motion Picture Association of America",
+        "short": "MPAA film rating"
+    },
+    {
+        "relation": "P1656",
+        "text": "person who unveils a statue, sculpture, memorial or plaque, etc.",
+        "short": "unveiled by"
+    },
+    {
+        "relation": "P1654",
+        "text": "configuration of wing(s) used by an aircraft",
+        "short": "wing configuration"
+    },
+    {
+        "relation": "P2289",
+        "text": "vein draining the anatomical structure",
+        "short": "venous drainage"
+    },
+    {
+        "relation": "P85",
+        "text": "subject's official anthem",
+        "short": "anthem"
+    },
+    {
+        "relation": "P2283",
+        "text": "item or concept used by the subject or in the operation (see also instrument [P1303] and armament [P520])",
+        "short": "uses"
+    },
+    {
+        "relation": "P84",
+        "text": "person or architectural firm that designed this building",
+        "short": "architect"
+    },
+    {
+        "relation": "P2286",
+        "text": "arterial supply of an anatomical structure",
+        "short": "arterial supply"
+    },
+    {
+        "relation": "P98",
+        "text": "editor of a compiled work such as a book or a periodical (newspaper or an academic journal)",
+        "short": "editor"
+    },
+    {
+        "relation": "P1547",
+        "text": "subject software depends on object software",
+        "short": "depends on software"
+    },
+    {
+        "relation": "P4379",
+        "text": "group of younger people associated with this organization",
+        "short": "youth wing"
+    },
+    {
+        "relation": "P111",
+        "text": "value of a physical property expressed as number multiplied by a unit",
+        "short": "measured physical quantity"
+    },
+    {
+        "relation": "P1950",
+        "text": "second (generally maternal) family name in Spanish names (do not use for other double barrelled names)",
+        "short": "second family name in Spanish name"
+    },
+    {
+        "relation": "P1951",
+        "text": "individual or organization which invests money in the item for the purpose of obtaining financial return on their investment",
+        "short": "investor"
+    },
+    {
+        "relation": "P114",
+        "text": "alliance the airline belongs to",
+        "short": "airline alliance"
+    },
+    {
+        "relation": "P1546",
+        "text": "description of the motto of the subject",
+        "short": "motto"
+    },
+    {
+        "relation": "P91",
+        "text": "the sexual orientation of the person — use IF AND ONLY IF they have stated it themselves, unambiguously, or it has been widely agreed upon by historians after their death",
+        "short": "sexual orientation"
+    },
+    {
+        "relation": "P92",
+        "text": "text setting the main rules by which the subject is regulated",
+        "short": "main regulatory text"
+    },
+    {
+        "relation": "P119",
+        "text": "location of grave, resting place, place of ash-scattering, etc, (e.g. town/city or cemetery) for a person or animal. There may be several places: e.g. re-burials, cenotaphs, parts of body buried separately.",
+        "short": "place of burial"
+    },
+    {
+        "relation": "P97",
+        "text": "titles held by the person",
+        "short": "noble title"
+    },
+    {
+        "relation": "P2579",
+        "text": "subject is studied by this science or domain",
+        "short": "studied by"
+    },
+    {
+        "relation": "P2578",
+        "text": "subject item is the academic field studying the object item of this property",
+        "short": "studies"
+    },
+    {
+        "relation": "P2577",
+        "text": "this logic inference rule is admissible in that logical system",
+        "short": "admissible rule in"
+    },
+    {
+        "relation": "P2575",
+        "text": "physical quantity that this device measures",
+        "short": "measures"
+    },
+    {
+        "relation": "P509",
+        "text": "underlying or immediate cause of death.  Underlying cause (e.g. car accident, stomach cancer) preferred.  Use 'manner of death' (P1196) for broadest category, e.g. natural causes, accident, homicide, suicide",
+        "short": "cause of death"
+    },
+    {
+        "relation": "P277",
+        "text": "the programming language(s) in which the software is developed",
+        "short": "programming language"
+    },
+    {
+        "relation": "P1478",
+        "text": "nearest, proximate thing that directly resulted in the subject as outcome or effect. Used in conjunction with 'has cause' (i.e. underlying cause) and 'has contributing factor'. See 'Help:Modeling causes'.",
+        "short": "has immediate cause"
+    },
+    {
+        "relation": "P276",
+        "text": "location of the item, physical object or event is within. In case of an administrative entity use P131. In case of a distinct terrain feature use P706.",
+        "short": "location"
+    },
+    {
+        "relation": "P501",
+        "text": "territory is entirely surrounded by the other (enclaved)",
+        "short": "enclave within"
+    },
+    {
+        "relation": "P1576",
+        "text": "typical way of life of an individual, group, or culture",
+        "short": "lifestyle"
+    },
+    {
+        "relation": "P2695",
+        "text": "the locality where a particular rock type, stratigraphic unit or mineral species is defined from (can coincide but not the same as p189)",
+        "short": "type locality (geology)"
+    },
+    {
+        "relation": "P1002",
+        "text": "configuration of an engine's cylinders",
+        "short": "engine configuration"
+    },
+    {
+        "relation": "P504",
+        "text": "home port of the vessel (if different from \"ship registry\"): For civilian ships, the primary port from which the ship operates. Port of registry →P532 should be listed in \"Ship registry\". For warships, this will be the ship's assigned naval base",
+        "short": "home port"
+    },
+    {
+        "relation": "P1000",
+        "text": "notable record achieved by a person or entity, include qualifiers for dates held",
+        "short": "record held"
+    },
+    {
+        "relation": "P1001",
+        "text": "the item (an institution, law, public office ...) or statement belongs to or has power over or applies to the value (a territorial jurisdiction: a country, state, municipality, ...)",
+        "short": "applies to jurisdiction"
+    },
+    {
+        "relation": "P3610",
+        "text": "fare zone that the station is in",
+        "short": "fare zone"
+    },
+    {
+        "relation": "P2597",
+        "text": "Gram stain type of a bacterial strain",
+        "short": "Gram staining"
+    },
+    {
+        "relation": "P2596",
+        "text": "human culture or people (or several cultures) associated with this item",
+        "short": "culture"
+    },
+    {
+        "relation": "P3902",
+        "text": "components of the last meal had by a person before death",
+        "short": "had as last meal"
+    },
+    {
+        "relation": "P2453",
+        "text": "qualifier used with «nominated for» to specify which person or organization was nominated",
+        "short": "nominee"
+    },
+    {
+        "relation": "P636",
+        "text": "path by which a drug, fluid, poison, or other substance is taken into the body",
+        "short": "route of administration"
+    },
+    {
+        "relation": "P25",
+        "text": "female parent of the subject. For stepmother, use \"stepparent\" (P3448)",
+        "short": "mother"
+    },
+    {
+        "relation": "P27",
+        "text": "the object is a country that recognizes the subject as its citizen",
+        "short": "country of citizenship"
+    },
+    {
+        "relation": "P26",
+        "text": "the subject has the object as their spouse (husband, wife, partner, etc.). Use \"partner\" (P451) for non-married companions",
+        "short": "spouse"
+    },
+    {
+        "relation": "P21",
+        "text": "sexual identity of subject: male (Q6581097), female (Q6581072), intersex (Q1097630), transgender female (Q1052281), transgender male (Q2449503). Animals: male animal (Q44148), female animal (Q43445). Groups of same gender use \"subclass of\" (P279)",
+        "short": "sex or gender"
+    },
+    {
+        "relation": "P20",
+        "text": "most specific known (e.g. city instead of country, or hospital instead of city) death location of a person, animal or fictional character",
+        "short": "place of death"
+    },
+    {
+        "relation": "P22",
+        "text": "male parent of the subject. For stepfather, use \"stepparent\" (P3448)",
+        "short": "father"
+    },
+    {
+        "relation": "P2058",
+        "text": "depositor/depositaries for the treaty",
+        "short": "depositor"
+    },
+    {
+        "relation": "P4675",
+        "text": "this fictional or mythical entity takes the form of that entity",
+        "short": "appears in the form of"
+    },
+    {
+        "relation": "P3712",
+        "text": "desired result or outcome",
+        "short": "objective of project or action"
+    },
+    {
+        "relation": "P376",
+        "text": "astronomical body on which features or places are situated",
+        "short": "located on astronomical location"
+    },
+    {
+        "relation": "P805",
+        "text": "(qualifier only) item which describes the relation identified in this statement",
+        "short": "statement is subject of"
+    },
+    {
+        "relation": "P375",
+        "text": "type of rocket or other vehicle for launching subject payload into outer space",
+        "short": "space launch vehicle"
+    },
+    {
+        "relation": "P479",
+        "text": "input method or device used to interact with a software product",
+        "short": "input method"
+    },
+    {
+        "relation": "P802",
+        "text": "notable student(s) of an individual",
+        "short": "student"
+    },
+    {
+        "relation": "P803",
+        "text": "professorship position held by this academic person",
+        "short": "professorship"
+    },
+    {
+        "relation": "P176",
+        "text": "manufacturer or producer of this product",
+        "short": "manufacturer"
+    },
+    {
+        "relation": "P2937",
+        "text": "term of a parliament or any deliberative assembly",
+        "short": "parliamentary term"
+    },
+    {
+        "relation": "P2936",
+        "text": "language widely used (spoken or written) in this place or at this event",
+        "short": "language used"
+    },
+    {
+        "relation": "P2935",
+        "text": "connectors which the device has/supports",
+        "short": "connector"
+    },
+    {
+        "relation": "P1136",
+        "text": "person that solved a scientific question",
+        "short": "solved by"
+    },
+    {
+        "relation": "P1137",
+        "text": "fossils that are found in this stratigraphic unit",
+        "short": "fossil found in this unit"
+    },
+    {
+        "relation": "P3354",
+        "text": "the presence of the genetic variant helps to predict response to a treatment",
+        "short": "positive therapeutic predictor"
+    },
+    {
+        "relation": "P3355",
+        "text": "the presence of the genetic variant helps to predict no response or resistance to a treatment",
+        "short": "negative therapeutic predictor"
+    },
+    {
+        "relation": "P3092",
+        "text": "member of the crew creating an audiovisual work, used for miscellaneous roles qualified with the job title when no specific property exists. Don't use if such a property is available: notably for cast member (P161), director (P57), etc.",
+        "short": "film crew member"
+    },
+    {
+        "relation": "P3729",
+        "text": "lower rank or level in a ranked hierarchy like sport league, military ranks. If there are several possible, list each one and qualify with \"criterion used\" (P1013), avoid using ranks and date qualifiers. For sports leagues/taxa, use specific properties instead.",
+        "short": "next lower rank"
+    },
+    {
+        "relation": "P4791",
+        "text": "commander of a military unit/army/security service, operation, etc.",
+        "short": "commanded by"
+    },
+    {
+        "relation": "P4151",
+        "text": "constructs of rules or methods designed for interaction with the game state",
+        "short": "game mechanics"
+    },
+    {
+        "relation": "P4792",
+        "text": "construction impounding this watercourse or creating this reservoir",
+        "short": "dam"
+    },
+    {
+        "relation": "P1455",
+        "text": "link to the article with the works of a person",
+        "short": "list of works"
+    },
+    {
+        "relation": "P971",
+        "text": "this category combines (intersects) these two or more topics",
+        "short": "category combines topics"
+    },
+    {
+        "relation": "P972",
+        "text": "catalog for the item, or, as a qualifier of P528 – catalog for which the 'catalog code' is valid",
+        "short": "catalog"
+    },
+    {
+        "relation": "P1434",
+        "text": "the subject is a work describing a fictional universe, i.e. whose plot occurs in this universe.",
+        "short": "takes place in fictional universe"
+    },
+    {
+        "relation": "P1433",
+        "text": "larger work that a given work was published in, like a book, journal or music album",
+        "short": "published in"
+    },
+    {
+        "relation": "P1432",
+        "text": "song/track which is the B-side of this single",
+        "short": "B-side (DEPRECATED)"
+    },
+    {
+        "relation": "P1431",
+        "text": "executive producer of a movie or TV show",
+        "short": "executive producer"
+    },
+    {
+        "relation": "P517",
+        "text": "subset of the four fundamental forces (strong (Q11415), electromagnetic (Q849919), weak (Q11418), and gravitation (Q11412) with which a particle interacts",
+        "short": "interaction"
+    },
+    {
+        "relation": "P870",
+        "text": "combination of musical instruments employed in a composition",
+        "short": "instrumentation"
+    },
+    {
+        "relation": "P873",
+        "text": "phase point to describe critical point and triple point (see talk page for an example)",
+        "short": "phase point"
+    },
+    {
+        "relation": "P872",
+        "text": "organization or person who printed the creative work (if different from \"publisher\")",
+        "short": "printed by"
+    },
+    {
+        "relation": "P3091",
+        "text": "creature ridden by the subject, for instance a horse",
+        "short": "mount"
+    },
+    {
+        "relation": "P655",
+        "text": "person who adapts a creative work to another language",
+        "short": "translator"
+    },
+    {
+        "relation": "P654",
+        "text": "qualifier for geographical locations to express relative direction",
+        "short": "direction relative to location"
+    },
+    {
+        "relation": "P658",
+        "text": "songs contained in this item",
+        "short": "tracklist"
+    },
+    {
+        "relation": "P1227",
+        "text": "passband used to isolate particular sections of the electromagnetic spectrum",
+        "short": "astronomical filter"
+    },
+    {
+        "relation": "P710",
+        "text": "person, group of people or organization (object) that actively takes/took part in an event or process (subject).  Preferably qualify with \"object has role\" (P3831). Use P1923 for participants that are teams.",
+        "short": "participant"
+    },
+    {
+        "relation": "P1340",
+        "text": "color of the irises of a person's eyes",
+        "short": "eye color"
+    },
+    {
+        "relation": "P1343",
+        "text": "dictionary, encyclopedia, etc. where this item is described",
+        "short": "described by source"
+    },
+    {
+        "relation": "P3680",
+        "text": "entity that supports a given statement",
+        "short": "statement supported by"
+    },
+    {
+        "relation": "P1347",
+        "text": "allowed values:  killed in action (Q210392), missing in action (Q2344557), died of wounds (Q16861372), prisoner of war (Q179637), killed in flight accident (Q16861407), others used in military casualty classification",
+        "short": "military casualty classification"
+    },
+    {
+        "relation": "P1346",
+        "text": "winner of an event - do not use for awards (use P166 instead), nor for wars or battles",
+        "short": "winner"
+    },
+    {
+        "relation": "P488",
+        "text": "presiding member of an organization, group or body",
+        "short": "chairperson"
+    },
+    {
+        "relation": "P489",
+        "text": "item with description of currency symbol",
+        "short": "currency symbol description"
+    },
+    {
+        "relation": "P734",
+        "text": "surname of a person",
+        "short": "family name"
+    },
+    {
+        "relation": "P783",
+        "text": "type of spore-bearing surface or that mushroom",
+        "short": "hymenium type"
+    },
+    {
+        "relation": "P210",
+        "text": "chief representative of a party in an institution or an administrative unit (use qualifier to identify the party)",
+        "short": "party chief representative"
+    },
+    {
+        "relation": "P483",
+        "text": "studio or location where a musical composition was recorded",
+        "short": "recorded at"
+    },
+    {
+        "relation": "P485",
+        "text": "the institution holding the subject's archives",
+        "short": "archives at"
+    },
+    {
+        "relation": "P3438",
+        "text": "vehicle the subject normally uses",
+        "short": "vehicle normally used"
+    },
+    {
+        "relation": "P744",
+        "text": "population of asteroids that share similar proper orbital elements",
+        "short": "asteroid family"
+    },
+    {
+        "relation": "P3433",
+        "text": "a variant of a physical biological entity (e.g., gene sequence, protein sequence, epigenetic mark)",
+        "short": "biological variant of"
+    },
+    {
+        "relation": "P3437",
+        "text": "the type of passengers or cargo a vehicle actually carries/carried",
+        "short": "people or cargo transported"
+    },
+    {
+        "relation": "P156",
+        "text": "immediately following item in a series of which the subject is a part [if the subject has been replaced, e.g. political offices, use \"replaced by\" (P1366)]",
+        "short": "followed by"
+    },
+    {
+        "relation": "P157",
+        "text": "person who killed the subject",
+        "short": "killed by"
+    },
+    {
+        "relation": "P155",
+        "text": "immediately prior item in a series of which the subject is a part [if the subject has replaced the preceding item, e.g. political offices, use \"replaces\" (P1365)]",
+        "short": "follows"
+    },
+    {
+        "relation": "P150",
+        "text": "(list of) direct subdivisions of an administrative territorial entity",
+        "short": "contains administrative territorial entity"
+    },
+    {
+        "relation": "P1878",
+        "text": "classification for typefaces",
+        "short": "Vox-ATypI classification"
+    },
+    {
+        "relation": "P629",
+        "text": "is an edition or translation of this entity",
+        "short": "edition or translation of"
+    },
+    {
+        "relation": "P4330",
+        "text": "item or substance located within this item but not part of it",
+        "short": "contains"
+    },
+    {
+        "relation": "P397",
+        "text": "major astronomical body the item belongs to",
+        "short": "parent astronomical body"
+    },
+    {
+        "relation": "P1910",
+        "text": "indicates that a decreased expression of the subject gene is found in the object disease",
+        "short": "decreased expression in"
+    },
+    {
+        "relation": "P664",
+        "text": "person or institution organizing an event",
+        "short": "organizer"
+    },
+    {
+        "relation": "P1913",
+        "text": "This property should link a gene and a disease due to a duplication",
+        "short": "gene duplication association with"
+    },
+    {
+        "relation": "P398",
+        "text": "minor body that belongs to the item",
+        "short": "child astronomical body"
+    },
+    {
+        "relation": "P399",
+        "text": "two or more astronomic bodies of the same type relating to each other",
+        "short": "companion of"
+    },
+    {
+        "relation": "P2238",
+        "text": "official symbol of administrative entities",
+        "short": "official symbol"
+    },
+    {
+        "relation": "P1318",
+        "text": "person who proved something",
+        "short": "proved by"
+    },
+    {
+        "relation": "P2894",
+        "text": "day of the week on which this item occurs, applies to or is valid",
+        "short": "day of week"
+    },
+    {
+        "relation": "P195",
+        "text": "art, museum, archival, or bibliographic collection the subject is part of",
+        "short": "collection"
+    },
+    {
+        "relation": "P2237",
+        "text": "None",
+        "short": "None"
+    },
+    {
+        "relation": "P2414",
+        "text": "substrate that an enzyme acts upon to create a product",
+        "short": "substrate of"
+    },
+    {
+        "relation": "P1686",
+        "text": "qualifier of award received (P166) to specify the work that an award was given to the creator for",
+        "short": "for work"
+    },
+    {
+        "relation": "P3094",
+        "text": "this class of items develops from another class of items",
+        "short": "develops from"
+    },
+    {
+        "relation": "P1192",
+        "text": "service stopping at a station",
+        "short": "connecting service"
+    },
+    {
+        "relation": "P3828",
+        "text": "clothing or accessory worn on subject's body",
+        "short": "wears"
+    },
+    {
+        "relation": "P61",
+        "text": "the entity who discovered, first described,  invented, or developed this discovery or invention",
+        "short": "discoverer or inventor"
+    },
+    {
+        "relation": "P2095",
+        "text": "rally team member who performs as a co-driver or co-pilot",
+        "short": "co-driver"
+    },
+    {
+        "relation": "P65",
+        "text": "the place where an astronomical object was discovered (observatory, satellite)",
+        "short": "site of astronomical discovery"
+    },
+    {
+        "relation": "P66",
+        "text": "place of origin for ancestors of subject",
+        "short": "ancestral home"
+    },
+    {
+        "relation": "P69",
+        "text": "educational institution attended by subject",
+        "short": "educated at"
+    },
+    {
+        "relation": "P2098",
+        "text": "function that serves as deputy/replacement of this function/office (scope/conditions vary depending on office)",
+        "short": "substitute/deputy/replacement of office/officeholder"
+    },
+    {
+        "relation": "P2522",
+        "text": "competition or event won by the subject",
+        "short": "victory"
+    },
+    {
+        "relation": "P500",
+        "text": "territory is legally or politically attached to a main territory with which it is not physically contiguous because of surrounding alien territory. It may also be an enclave.",
+        "short": "exclave of"
+    },
+    {
+        "relation": "P1962",
+        "text": "None",
+        "short": "None"
+    },
+    {
+        "relation": "P530",
+        "text": "diplomatic relations of the country",
+        "short": "diplomatic relation"
+    },
+    {
+        "relation": "P532",
+        "text": "ship's port of registry. This is generally painted on the ship's stern (for the \"home port\", see Property:P504)",
+        "short": "port of registry"
+    },
+    {
+        "relation": "P533",
+        "text": "target of a terrorist attack or military operation",
+        "short": "target"
+    },
+    {
+        "relation": "P928",
+        "text": "which neurotransmitter activates the neuron",
+        "short": "activating neurotransmitter"
+    },
+    {
+        "relation": "P538",
+        "text": "type of fracture a crystal or mineral forms",
+        "short": "fracturing"
+    },
+    {
+        "relation": "P926",
+        "text": "neuron connects on its postsynaptic end to",
+        "short": "postsynaptic connection"
+    },
+    {
+        "relation": "P4599",
+        "text": "polymer composed of this monomer subunits",
+        "short": "monomer of"
+    },
+    {
+        "relation": "P924",
+        "text": "health treatment used to resolve or ameliorate a medical condition",
+        "short": "possible treatment"
+    },
+    {
+        "relation": "P923",
+        "text": "examinations that might be used to diagnose the medical condition",
+        "short": "medical examinations"
+    },
+    {
+        "relation": "P688",
+        "text": "the product of a gene (protein or RNA)",
+        "short": "encodes"
+    },
+    {
+        "relation": "P437",
+        "text": "method (or type) of distribution for the subject",
+        "short": "distribution format"
+    },
+    {
+        "relation": "P3764",
+        "text": "person, who starts race at first row (leader in the starting grid)",
+        "short": "pole position"
+    },
+    {
+        "relation": "P3484",
+        "text": "None",
+        "short": "None"
+    },
+    {
+        "relation": "P2176",
+        "text": "drug, procedure, or therapy that can be used to treat a medical condition",
+        "short": "drug used for treatment"
+    },
+    {
+        "relation": "P4446",
+        "text": "reward program associated with the item",
+        "short": "reward program"
+    },
+    {
+        "relation": "P1344",
+        "text": "event a person or an organization was/is a participant in, inverse of P710 or P1923",
+        "short": "participant of"
+    },
+    {
+        "relation": "P1040",
+        "text": "Person who works with the raw footage, selecting shots and combining them into sequences to create a finished motion picture",
+        "short": "film editor"
+    },
+    {
+        "relation": "P1046",
+        "text": "way an exoplanet was discovered",
+        "short": "discovery method"
+    },
+    {
+        "relation": "P1049",
+        "text": "religion or group/civilization that worships a given deity",
+        "short": "worshipped by"
+    },
+    {
+        "relation": "P4292",
+        "text": "item which is spiritually possessing this item",
+        "short": "possessed by spirit"
+    },
+    {
+        "relation": "P4688",
+        "text": "topographic or bathymetric feature to which this geographical item belongs",
+        "short": "geomorphological unit"
+    },
+    {
+        "relation": "P1389",
+        "text": "certification for a product, qualify with P1001 (\"applies to jurisdiction\") if needed",
+        "short": "product certification"
+    },
+    {
+        "relation": "P289",
+        "text": "series of vessels built to the same design of which this vessel is a member",
+        "short": "vessel class"
+    },
+    {
+        "relation": "P286",
+        "text": "on-field manager or head coach of a sports club (not to be confused with a general manager P505, which is not a coaching position) or person",
+        "short": "head coach"
+    },
+    {
+        "relation": "P287",
+        "text": "person(s) that designed the item",
+        "short": "designed by"
+    },
+    {
+        "relation": "P1387",
+        "text": "political position within the political spectrum",
+        "short": "political alignment"
+    },
+    {
+        "relation": "P17",
+        "text": "sovereign state of this item; don't use on humans",
+        "short": "country"
+    },
+    {
+        "relation": "P282",
+        "text": "alphabet, character set or other system of writing used by a language, supported by a typeface",
+        "short": "writing system"
+    },
+    {
+        "relation": "P1383",
+        "text": "settlement which an administrative division contains",
+        "short": "contains settlement"
+    },
+    {
+        "relation": "P1382",
+        "text": "object that is partially part of, but not fully part of (P361), the subject",
+        "short": "partially coincident with"
+    },
+    {
+        "relation": "P1142",
+        "text": "political ideology of this organization or person",
+        "short": "political ideology"
+    },
+    {
+        "relation": "P1268",
+        "text": "organization or individual that an entity represents",
+        "short": "represents"
+    },
+    {
+        "relation": "P991",
+        "text": "person(s) elected after the election",
+        "short": "successful candidate"
+    },
+    {
+        "relation": "P449",
+        "text": "network(s) the radio or television show was originally aired on, not including later re-runs or additional syndication",
+        "short": "original network"
+    },
+    {
+        "relation": "P2962",
+        "text": "title awarded by a chess federation to a person",
+        "short": "title of chess person"
+    },
+    {
+        "relation": "P1264",
+        "text": "time period when a statement is valid",
+        "short": "valid in period"
+    },
+    {
+        "relation": "P3005",
+        "text": "place where a statement is valid",
+        "short": "valid in place"
+    },
+    {
+        "relation": "P1064",
+        "text": "spacing of the rails on a railway track",
+        "short": "track gauge"
+    },
+    {
+        "relation": "P3161",
+        "text": "language has this grammatical mood/mode for signaling modality",
+        "short": "has grammatical mood"
+    },
+    {
+        "relation": "P840",
+        "text": "the narrative of the work is set in this location",
+        "short": "narrative location"
+    },
+    {
+        "relation": "P841",
+        "text": "saint's principal feast day",
+        "short": "feast day"
+    },
+    {
+        "relation": "P1817",
+        "text": "person or organization to whom a letter or note is addressed",
+        "short": "addressee"
+    },
+    {
+        "relation": "P1811",
+        "text": "link to the article with the list of episodes for this series",
+        "short": "list of episodes"
+    },
+    {
+        "relation": "P1542",
+        "text": "effect of this cause",
+        "short": "has effect"
+    },
+    {
+        "relation": "P523",
+        "text": "the start of a process or appearance of a life form relative to the geologic time scale",
+        "short": "temporal range start"
+    },
+    {
+        "relation": "P4743",
+        "text": "subject item belongs to a specific group of domestic animals, generally given by association",
+        "short": "animal breed"
+    },
+    {
+        "relation": "P1299",
+        "text": "object depicting this subject",
+        "short": "depicted by"
+    },
+    {
+        "relation": "P2366",
+        "text": "optional part of the name of a Roman, link to items about specific Roman agnomen only.",
+        "short": "Roman agnomen"
+    },
+    {
+        "relation": "P2365",
+        "text": "standard part of the name of a Roman, link to items about specific Roman cognomen only.",
+        "short": "Roman cognomen"
+    },
+    {
+        "relation": "P3189",
+        "text": "nerves which innervate this anatomical structure",
+        "short": "innervated by"
+    },
+    {
+        "relation": "P2360",
+        "text": "this work, product, object or event is intended for, or has been designed to that person or group of people, animals, plants, etc",
+        "short": "intended public"
+    },
+    {
+        "relation": "P4220",
+        "text": "arrangement of units and hierarchical organization of the armed forces involved in the specified military action",
+        "short": "order of battle"
+    },
+    {
+        "relation": "P747",
+        "text": "link to an edition of this item",
+        "short": "has edition"
+    },
+    {
+        "relation": "P669",
+        "text": "street, road, or square, where the item is located. To add the number, use Property:P670 \"street number\" as qualifier. Use property P6375 if there is no item for the street",
+        "short": "located on street"
+    },
+    {
+        "relation": "P199",
+        "text": "organizational divisions of this organization (which are not independent legal entities)",
+        "short": "business division"
+    },
+    {
+        "relation": "P1312",
+        "text": "facet of a polytope, in the next-lower dimension",
+        "short": "has facet polytope"
+    },
+    {
+        "relation": "P1313",
+        "text": "political office that is fulfilled by the head of the government of this item",
+        "short": "office held by head of government"
+    },
+    {
+        "relation": "P1310",
+        "text": "entity that disputes a given statement",
+        "short": "statement disputed by"
+    },
+    {
+        "relation": "P740",
+        "text": "location where a group or organization was formed",
+        "short": "location of formation"
+    },
+    {
+        "relation": "P193",
+        "text": "the main organization responsible for construction of this structure or building",
+        "short": "main building contractor"
+    },
+    {
+        "relation": "P190",
+        "text": "twin towns, sister cities, twinned municipalities and other localities that have a partnership or cooperative agreement, either legally or informally acknowledged by their governments",
+        "short": "twinned administrative body"
+    },
+    {
+        "relation": "P196",
+        "text": "is in grouping of minor planets according to similar orbital characteristics",
+        "short": "minor planet group"
+    },
+    {
+        "relation": "P197",
+        "text": "the stations next to this station, sharing the same line(s)",
+        "short": "adjacent station"
+    },
+    {
+        "relation": "P749",
+        "text": "parent organization of an organization, opposite of subsidiaries (P355)",
+        "short": "parent organization"
+    },
+    {
+        "relation": "P748",
+        "text": "who appointed the person to the office, can be used as a qualifier",
+        "short": "appointed by"
+    },
+    {
+        "relation": "P3261",
+        "text": "main stem of this blood vessel, lymphatic vessel or nerve",
+        "short": "anatomical branch of"
+    },
+    {
+        "relation": "P3262",
+        "text": "branches of this blood vessel, lymphatic vessel or nerve",
+        "short": "has anatomical branch"
+    },
+    {
+        "relation": "P344",
+        "text": "person responsible for the framing, lighting, and filtration of the subject work",
+        "short": "director of photography"
+    },
+    {
+        "relation": "P2554",
+        "text": "production designer(s) of this motion picture, play, video game or similar",
+        "short": "production designer"
+    },
+    {
+        "relation": "P694",
+        "text": "previously published name on which a replacement name (avowed substitute, nomen novum) is based.",
+        "short": "replaced synonym (for nom. nov.)"
+    },
+    {
+        "relation": "P690",
+        "text": "symmetry classification for 2 and 3 dimensional patterns or crystals",
+        "short": "space group"
+    },
+    {
+        "relation": "P3461",
+        "text": "country or organization that has officially designated a given group as a terrorist organization (e.g. for India, listed on http://mha.nic.in/BO )",
+        "short": "designated as terrorist by"
+    },
+    {
+        "relation": "P3501",
+        "text": "Catholic rite associated with this item",
+        "short": "Catholic rite"
+    },
+    {
+        "relation": "P2992",
+        "text": "quality assurance process in place for a particular software",
+        "short": "software quality assurance"
+    },
+    {
+        "relation": "P0",
+        "text": "None",
+        "short": "None"
+    },
+    {
+        "relation": "P3989",
+        "text": "all members of this group share the occupation",
+        "short": "members have occupation"
+    },
+    {
+        "relation": "P2515",
+        "text": "person who designed the costumes for a film, television programme, etc",
+        "short": "costume designer"
+    },
+    {
+        "relation": "P2512",
+        "text": "series' spin-offs",
+        "short": "series spin-off"
+    },
+    {
+        "relation": "P1639",
+        "text": "other work in a pair of opposing artworks, such as wedding portraits, commissioned together, but not always",
+        "short": "pendant of"
+    },
+    {
+        "relation": "P2978",
+        "text": "wheel/axle arrangement for locomotives, railcars and other rolling stock",
+        "short": "wheel arrangement"
+    },
+    {
+        "relation": "P1464",
+        "text": "category item that groups people born in this place",
+        "short": "category for people born here"
+    },
+    {
+        "relation": "P2293",
+        "text": "general link between a disease and the causal genetic entity, if the detailed mechanism is unknown/unavailable",
+        "short": "genetic association"
+    },
+    {
+        "relation": "P2291",
+        "text": "chart where the element reached a position",
+        "short": "charted in"
+    },
+    {
+        "relation": "P264",
+        "text": "brand and trademark associated with the marketing of subject music recordings and music videos",
+        "short": "record label"
+    },
+    {
+        "relation": "P1923",
+        "text": "Like 'Participant' (P710) but for teams. For an event like a cycle race or a football match you can use this property to list the teams and P710 to list the individuals (with 'member of sports team' (P54) as a qualifier for the individuals)",
+        "short": "participating team"
+    },
+    {
+        "relation": "P108",
+        "text": "person or organization for which the subject works or worked",
+        "short": "employer"
+    },
+    {
+        "relation": "P263",
+        "text": "the residence at which heads of government and other senior figures officially reside",
+        "short": "official residence"
+    },
+    {
+        "relation": "P105",
+        "text": "level in a taxonomic hierarchy",
+        "short": "taxon rank"
+    },
+    {
+        "relation": "P106",
+        "text": "occupation of a person; see also \"field of work\" (Property:P101), \"position held\" (Property:P39)",
+        "short": "occupation"
+    },
+    {
+        "relation": "P101",
+        "text": "specialization of a person or organization; see P106 for the occupation",
+        "short": "field of work"
+    },
+    {
+        "relation": "P103",
+        "text": "language or languages a person has learned from early childhood",
+        "short": "native language"
+    },
+    {
+        "relation": "P102",
+        "text": "the political party of which this politician is or has been a member",
+        "short": "member of political party"
+    },
+    {
+        "relation": "P2568",
+        "text": "document is repealed/inactived by specified other document",
+        "short": "repealed by"
+    },
+    {
+        "relation": "P2560",
+        "text": "graphics processing unit within a system",
+        "short": "GPU"
+    },
+    {
+        "relation": "P2563",
+        "text": "superhuman, supernatural, or paranormal abilities that the fictional subject exhibits",
+        "short": "superhuman feature or ability"
+    },
+    {
+        "relation": "P2564",
+        "text": "indicates the characteristic climate of a place",
+        "short": "Köppen climate classification"
+    },
+    {
+        "relation": "P2567",
+        "text": "document is amended by specified other document",
+        "short": "amended by"
+    },
+    {
+        "relation": "P1039",
+        "text": "qualifier of \"relative (P1038)\" to indicate unusual family relationships (ancestor, son-in-law, adoptions, etc). Avoid using for relationships that can be derived from the family tree or have an explicit property (spouse, child, etc)",
+        "short": "type of kinship"
+    },
+    {
+        "relation": "P2743",
+        "text": "links coordinate zoological names",
+        "short": "this zoological name is coordinate with"
+    },
+    {
+        "relation": "P2746",
+        "text": "amount of a certain good produced in/by the item",
+        "short": "production statistics"
+    },
+    {
+        "relation": "P1568",
+        "text": "set of \"input\" or argument values for which a mathematical function is defined",
+        "short": "domain"
+    },
+    {
+        "relation": "P1032",
+        "text": "technologies  to control the use of digital content and devices after sale",
+        "short": "Digital Rights Management system"
+    },
+    {
+        "relation": "P1037",
+        "text": "person who manages any kind of group",
+        "short": "director/manager"
+    },
+    {
+        "relation": "P828",
+        "text": "underlying cause, thing that ultimately resulted in this effect",
+        "short": "has cause"
+    },
+    {
+        "relation": "P1034",
+        "text": "species, genus or family that an organism depends on for nutrition",
+        "short": "main food source"
+    },
+    {
+        "relation": "P3602",
+        "text": "election where the subject is a candidate",
+        "short": "candidacy in election"
+    },
+    {
+        "relation": "P1445",
+        "text": "to link a fictional universe with a work that describes it: <universe> \"described in the work:\" <work>",
+        "short": "fictional universe described in"
+    },
+    {
+        "relation": "P3912",
+        "text": "physical size of a newspaper (berliner, broadsheet, tabloid, etc.)",
+        "short": "newspaper format"
+    },
+    {
+        "relation": "P78",
+        "text": "Internet domain name system top-level code",
+        "short": "top-level Internet domain"
+    },
+    {
+        "relation": "P2738",
+        "text": "every instance of this class is an instance of exactly one class in that list of classes",
+        "short": "disjoint union of"
+    },
+    {
+        "relation": "P463",
+        "text": "organization or club to which the subject belongs. Do not use for membership in ethnic or social groups, nor for holding a position such as a member of parliament (use P39 for that).",
+        "short": "member of"
+    },
+    {
+        "relation": "P4099",
+        "text": "typeface metrically compatible with this typeface: glyph position, width and height match",
+        "short": "metrically compatible typeface"
+    },
+    {
+        "relation": "P3919",
+        "text": "person is cited as contributing to some creative or published work or series (qualify with \"subject has role\", P2868)",
+        "short": "contributed to creative work"
+    },
+    {
+        "relation": "P3985",
+        "text": "programming language which is supported by this programming tool",
+        "short": "supports programming language"
+    },
+    {
+        "relation": "P414",
+        "text": "exchange on which this company is traded",
+        "short": "stock exchange"
+    },
+    {
+        "relation": "P837",
+        "text": "when a specific holiday or periodic event occurs. Can be used as property or qualifier",
+        "short": "day in year for periodic occurrence"
+    },
+    {
+        "relation": "P38",
+        "text": "currency used by item",
+        "short": "currency"
+    },
+    {
+        "relation": "P39",
+        "text": "subject currently or formerly holds the object position or public office",
+        "short": "position held"
+    },
+    {
+        "relation": "P1640",
+        "text": "content specialist responsible for this collection or exhibition",
+        "short": "curator"
+    },
+    {
+        "relation": "P1560",
+        "text": "equivalent name (with respect to the meaning of the name) in the same language: female version of a male first name, male version of a female first name. Add primarily the closest matching one",
+        "short": "given name version for other gender"
+    },
+    {
+        "relation": "P30",
+        "text": "continent of which the subject is a part",
+        "short": "continent"
+    },
+    {
+        "relation": "P31",
+        "text": "that class of which this subject is a particular example and member (subject typically an individual member with a proper name label); different from P279; using this property as a qualifier is deprecated—use P2868 or P3831 instead",
+        "short": "instance of"
+    },
+    {
+        "relation": "P4647",
+        "text": "location where a work was first debuted, performed or broadcasted",
+        "short": "location of first performance"
+    },
+    {
+        "relation": "P37",
+        "text": "language designated as official by this item",
+        "short": "official language"
+    },
+    {
+        "relation": "P35",
+        "text": "official with the highest formal authority in a country/state",
+        "short": "head of state"
+    },
+    {
+        "relation": "P400",
+        "text": "platform for which a work was developed or released, or the specific platform version of a software product",
+        "short": "platform"
+    },
+    {
+        "relation": "P1454",
+        "text": "legal form of an organization",
+        "short": "legal form"
+    },
+    {
+        "relation": "P1456",
+        "text": "link to the list of heritage monuments in the place/area",
+        "short": "list of monuments"
+    },
+    {
+        "relation": "P404",
+        "text": "a video game's available playing mode(s)",
+        "short": "game mode"
+    },
+    {
+        "relation": "P406",
+        "text": "music release that incorporates music directly recorded from the soundtrack of an audiovisual work",
+        "short": "soundtrack release"
+    },
+    {
+        "relation": "P407",
+        "text": "language associated with this creative work (such as books, shows, songs, or websites) or a name (for persons use P103 and P1412)",
+        "short": "language of work or name"
+    },
+    {
+        "relation": "P817",
+        "text": "type of decay that a radioactive isotope undergoes (should be used as a qualifier for \"decays to\")",
+        "short": "decay mode"
+    },
+    {
+        "relation": "P816",
+        "text": "what isotope does this radioactive isotope decay to",
+        "short": "decays to"
+    },
+    {
+        "relation": "P814",
+        "text": "protected areas category by the World Commission on Protected Areas. Used with dedicated items for each category.",
+        "short": "IUCN protected areas category"
+    },
+    {
+        "relation": "P812",
+        "text": "subject someone studied at college/university",
+        "short": "academic major"
+    },
+    {
+        "relation": "P366",
+        "text": "main use of the subject (includes current and former usage)",
+        "short": "use"
+    },
+    {
+        "relation": "P568",
+        "text": "stratigraphic unit that this unit lies over (i.e. the underlying unit)",
+        "short": "overlies"
+    },
+    {
+        "relation": "P567",
+        "text": "stratigraphic unit that this unit lies under (i.e. the overlying unit)",
+        "short": "underlies"
+    },
+    {
+        "relation": "P566",
+        "text": "the legitimate, previously published name on which a new combination or name at new rank is based",
+        "short": "basionym"
+    },
+    {
+        "relation": "P2922",
+        "text": "month of the year during which this item occurs, applies to or is valid in",
+        "short": "month of the year"
+    },
+    {
+        "relation": "P2739",
+        "text": "style of type used in a work",
+        "short": "typeface/font used"
+    },
+    {
+        "relation": "P562",
+        "text": "central bank or other issuing authority for the currency",
+        "short": "central bank/issuer"
+    },
+    {
+        "relation": "P2632",
+        "text": "place where this person is or was detained",
+        "short": "place of detention"
+    },
+    {
+        "relation": "P2633",
+        "text": "item that deals with the geography of the subject. Sample: \"Rio de Janeiro\" uses this property with value \"geography of Rio de Janeiro\" (Q10288853). For the location of a subject,use \"location\" (P276)",
+        "short": "geography of topic"
+    },
+    {
+        "relation": "P624",
+        "text": "guidance system of a missile",
+        "short": "guidance system"
+    },
+    {
+        "relation": "P3730",
+        "text": "higher rank or level in a ranked hierarchy like sport league, military ranks. If there are several possible, list each one and qualify with \"criterion used\" (P1013), avoid using ranks and date qualifiers. For sports leagues/taxa, use specific properties instead.",
+        "short": "next higher rank"
+    },
+    {
+        "relation": "P1420",
+        "text": "(incorrect) name(s) listed as synonym(s) of a taxon name",
+        "short": "taxon synonym"
+    },
+    {
+        "relation": "P87",
+        "text": "author of the libretto (words) of an opera, operetta, oratorio or cantata, or of the book of a musical",
+        "short": "librettist"
+    },
+    {
+        "relation": "P1589",
+        "text": "point with lowest elevation in the country, region, city or area",
+        "short": "lowest point"
+    },
+    {
+        "relation": "P1425",
+        "text": "ecoregion of the item (choose from WWF's list)",
+        "short": "ecoregion (WWF)"
+    },
+    {
+        "relation": "P1427",
+        "text": "starting place of this journey, flight, voyage, trek, migration etc.",
+        "short": "start point"
+    },
+    {
+        "relation": "P1851",
+        "text": "a superset of the domain of a function or relation that may include some inputs for which the function is not defined; to specify the set of only those inputs for which the function is defined use domain (P1568)",
+        "short": "input set"
+    },
+    {
+        "relation": "P1582",
+        "text": "links a natural product with its source (animal, plant, fungal, algal, etc.)",
+        "short": "natural product of taxon"
+    },
+    {
+        "relation": "P4147",
+        "text": "species formed by accepting a proton (H⁺)",
+        "short": "conjugate acid"
+    },
+    {
+        "relation": "P1855",
+        "text": "example where this Wikidata property is used; target item is one that would use this property, with qualifier the property being described given the associated value",
+        "short": "Wikidata property example"
+    },
+    {
+        "relation": "P1419",
+        "text": "shape of an object",
+        "short": "shape"
+    },
+    {
+        "relation": "P1924",
+        "text": "disease that a vaccine is for",
+        "short": "vaccine for"
+    },
+    {
+        "relation": "P1290",
+        "text": "person who is the godparent of a given person",
+        "short": "godparent"
+    },
+    {
+        "relation": "P1211",
+        "text": "fuel system that an engine uses",
+        "short": "fuel system"
+    },
+    {
+        "relation": "P708",
+        "text": "administrative division of the church to which the element belongs; use P5607 for other types of ecclesiastical territorial entities",
+        "short": "diocese"
+    },
+    {
+        "relation": "P2813",
+        "text": "media that speaks for an organization or a movement, and that is usually edited by its members",
+        "short": "mouthpiece"
+    },
+    {
+        "relation": "P703",
+        "text": "the taxon in which the item can be found",
+        "short": "found in taxon"
+    },
+    {
+        "relation": "P702",
+        "text": "the gene that encodes some gene product",
+        "short": "encoded by"
+    },
+    {
+        "relation": "P707",
+        "text": "general model on which multiple-production satellite spacecraft is based",
+        "short": "satellite bus"
+    },
+    {
+        "relation": "P706",
+        "text": "located on the specified landform. Should not be used when the value is only political/administrative (P131) or a mountain range (P4552).",
+        "short": "located on terrain feature"
+    },
+    {
+        "relation": "P3137",
+        "text": "parent is the peak whose territory this peak resides in, based on the contour of the lowest col",
+        "short": "parent peak"
+    },
+    {
+        "relation": "P2959",
+        "text": "this item duplicates another item and the two can't be merged, as one Wikimedia project includes two pages, e. g. in different scripts or languages (applies to some wiki, e.g.: cdowiki, gomwiki). Use \"duplicate item\" for other wikis.",
+        "short": "permanent duplicated item"
+    },
+    {
+        "relation": "P495",
+        "text": "country of origin of this item (creative work, food, phrase, product, etc.)",
+        "short": "country of origin"
+    },
+    {
+        "relation": "P790",
+        "text": "item is approved by other item(s) [qualifier: statement is approved by other item(s)]",
+        "short": "approved by"
+    },
+    {
+        "relation": "P4584",
+        "text": "work in which a fictional/mythical character or entity first appeared",
+        "short": "first appearance"
+    },
+    {
+        "relation": "P3781",
+        "text": "has part biologically active component. Inverse of \"active ingredient in\"",
+        "short": "has active ingredient"
+    },
+    {
+        "relation": "P3780",
+        "text": "is part of and forms biologically active component. Inverse of \"has active ingredient\"",
+        "short": "active ingredient in"
+    },
+    {
+        "relation": "P795",
+        "text": "linear feature along which distance is specified from a specified datum point",
+        "short": "located on linear feature"
+    },
+    {
+        "relation": "P797",
+        "text": "entity having executive power on given entity",
+        "short": "authority"
+    },
+    {
+        "relation": "P159",
+        "text": "specific location where an organization's headquarters is or has been situated. Inverse property of \"occupant\" (P466).",
+        "short": "headquarters location"
+    },
+    {
+        "relation": "P4586",
+        "text": "type foundry releasing or distributing a font or typeface",
+        "short": "type foundry"
+    },
+    {
+        "relation": "P3033",
+        "text": "package management system used to publish the software",
+        "short": "package management system"
+    },
+    {
+        "relation": "P3032",
+        "text": "building adjacent to the item",
+        "short": "adjacent building"
+    },
+    {
+        "relation": "P411",
+        "text": "stage in the process of attaining sainthood per the subject's religious organization",
+        "short": "canonization status"
+    },
+    {
+        "relation": "P141",
+        "text": "conservation status assigned by the International Union for Conservation of Nature",
+        "short": "IUCN conservation status"
+    },
+    {
+        "relation": "P140",
+        "text": "religion of a person, organization or religious building, or associated with this subject",
+        "short": "religion"
+    },
+    {
+        "relation": "P634",
+        "text": "captain of this sports team",
+        "short": "captain"
+    },
+    {
+        "relation": "P144",
+        "text": "the work(s) used as the basis for subject item",
+        "short": "based on"
+    },
+    {
+        "relation": "P631",
+        "text": "person, group or organisation responsible for the structural engineering of a building or structure",
+        "short": "structural engineer"
+    },
+    {
+        "relation": "P3342",
+        "text": "person linked to the item in any possible way",
+        "short": "significant person"
+    },
+    {
+        "relation": "P149",
+        "text": "architectural style of a structure",
+        "short": "architectural style"
+    },
+    {
+        "relation": "P915",
+        "text": "actual place where this scene/film was shot. For the setting, use \"narrative location\" (P840)",
+        "short": "filming location"
+    },
+    {
+        "relation": "P832",
+        "text": "official public holiday that occurs in this place in its honor, usually a non-working day",
+        "short": "public holiday"
+    },
+    {
+        "relation": "P2321",
+        "text": "classification of race participants",
+        "short": "general classification of race participants"
+    },
+    {
+        "relation": "P1435",
+        "text": "heritage designation of a cultural or natural site",
+        "short": "heritage designation"
+    },
+    {
+        "relation": "P684",
+        "text": "orthologous gene in another species (use with 'species' qualifier)",
+        "short": "ortholog"
+    },
+    {
+        "relation": "P2329",
+        "text": "No description defined",
+        "short": "antagonist muscle"
+    },
+    {
+        "relation": "P618",
+        "text": "describes the source of energy an animated object (machine or animal) uses",
+        "short": "source of energy"
+    },
+    {
+        "relation": "P2079",
+        "text": "method, process or technique used to grow, cook, weave, build, assemble, manufacture the item",
+        "short": "fabrication method"
+    },
+    {
+        "relation": "P200",
+        "text": "major inflow sources — rivers, aquifers, glacial runoff, etc. Some terms may not be place names, e.g. none",
+        "short": "inflows"
+    },
+    {
+        "relation": "P2175",
+        "text": "disease that this pharmaceutical drug, procedure, or therapy is used to treat",
+        "short": "medical condition treated"
+    },
+    {
+        "relation": "P1677",
+        "text": "primary case, patient zero: initial patient in the population of an epidemiological investigation",
+        "short": "index case of"
+    },
+    {
+        "relation": "P201",
+        "text": "rivers and other outflows waterway names. If evaporation or seepage are notable outflows, they may be included. Some terms may not be place names, e.g. evaporation",
+        "short": "lake outflow"
+    },
+    {
+        "relation": "P1672",
+        "text": "links a taxon to natural products it produces. Note that it does not say \"this taxon is the source of\" or \"this taxon is a source of\" as this may vary. Some products may be yielded by more than one taxon.",
+        "short": "this taxon is source of"
+    },
+    {
+        "relation": "P1038",
+        "text": "family member (qualify with \"type of kinship\", P1039; for direct family member please use specific property)",
+        "short": "relative"
+    },
+    {
+        "relation": "P3815",
+        "text": "institution that monitors this volcanic landform or phenomenon",
+        "short": "volcano observatory"
+    },
+    {
+        "relation": "P112",
+        "text": "founder or co-founder of this organization, religion or place",
+        "short": "founded by"
+    },
+    {
+        "relation": "P937",
+        "text": "location where persons were active",
+        "short": "work location"
+    },
+    {
+        "relation": "P134",
+        "text": "a former property, to be replaced by P4913, that describes a lot of things that are \"dialects\" related",
+        "short": "has dialect (DEPRECATED)"
+    },
+    {
+        "relation": "P135",
+        "text": "literary, artistic, scientific or philosophical movement associated with this person or work",
+        "short": "movement"
+    },
+    {
+        "relation": "P136",
+        "text": "creative work's genre or an artist's field of work (P101). Use main subject (P921) to relate creative works to their topic",
+        "short": "genre"
+    },
+    {
+        "relation": "P137",
+        "text": "person, profession, or organization that operates the equipment, facility, or service; use country for diplomatic missions",
+        "short": "operator"
+    },
+    {
+        "relation": "P131",
+        "text": "the item is located on the territory of the following administrative entity. Use P276 (location) for specifying the location of non-administrative places and for items about events",
+        "short": "located in the administrative territorial entity"
+    },
+    {
+        "relation": "P138",
+        "text": "entity or event that inspired the subject's name, or namesake (in at least one language)",
+        "short": "named after"
+    },
+    {
+        "relation": "P793",
+        "text": "significant or notable events associated with the subject",
+        "short": "significant event"
+    },
+    {
+        "relation": "P4353",
+        "text": "who nominated a person for an office; can be used as a qualifier",
+        "short": "nominated by"
+    },
+    {
+        "relation": "P4600",
+        "text": "monomer of which this polymer compose",
+        "short": "polymer of"
+    },
+    {
+        "relation": "P2551",
+        "text": "rhythmic structure of the poetic text or musical piece",
+        "short": "used metre"
+    },
+    {
+        "relation": "P2499",
+        "text": "the league above this sports league",
+        "short": "league level above"
+    },
+    {
+        "relation": "P4428",
+        "text": "implementation of a standard, program, specification or programming language",
+        "short": "implementation of"
+    },
+    {
+        "relation": "P1716",
+        "text": "commercial brand associated with the item",
+        "short": "brand"
+    },
+    {
+        "relation": "P612",
+        "text": "principal house or community for a religious institute",
+        "short": "mother house"
+    },
+    {
+        "relation": "P2670",
+        "text": "the subject instance has parts of the object class (the subject is usually not a class)",
+        "short": "has parts of the class"
+    },
+    {
+        "relation": "P522",
+        "text": "orbit a satellite has around its central body",
+        "short": "type of orbit"
+    },
+    {
+        "relation": "P521",
+        "text": "airport or station connected by regular direct service to the subject; for the destination of a trip see P1444",
+        "short": "scheduled service destination"
+    },
+    {
+        "relation": "P520",
+        "text": "equippable weapon item for the subject",
+        "short": "armament"
+    },
+    {
+        "relation": "P527",
+        "text": "part of this subject; inverse property of \"part of\" (P361). See also \"has parts of the class\" (P2670).",
+        "short": "has part"
+    },
+    {
+        "relation": "P2675",
+        "text": "the intellectual work to which the subsequent work is a direct reply",
+        "short": "reply to"
+    },
+    {
+        "relation": "P524",
+        "text": "the end of a process or extinction of a life form relative to the geologic time scale",
+        "short": "temporal range end"
+    },
+    {
+        "relation": "P1411",
+        "text": "award nomination received by a person, organisation or creative work (inspired from \"award received\" (Property:P166))",
+        "short": "nominated for"
+    },
+    {
+        "relation": "P913",
+        "text": "mathematical notation or another symbol",
+        "short": "notation"
+    },
+    {
+        "relation": "P910",
+        "text": "main Wikimedia category",
+        "short": "topic's main category"
+    },
+    {
+        "relation": "P1412",
+        "text": "language(s) that a person speaks, writes or signs, including the native language(s)",
+        "short": "languages spoken, written or signed"
+    },
+    {
+        "relation": "P1414",
+        "text": "framework or toolkit a program uses to display the graphical user interface",
+        "short": "GUI toolkit or framework"
+    },
+    {
+        "relation": "P1416",
+        "text": "organization that a person or organization is affiliated with (not necessary member of or employed by)",
+        "short": "affiliation"
+    },
+    {
+        "relation": "P1789",
+        "text": "the chief operating officer of an organization",
+        "short": "chief operating officer"
+    },
+    {
+        "relation": "P4100",
+        "text": "parliamentary group which a member of a parliament belongs to",
+        "short": "parliamentary group"
+    },
+    {
+        "relation": "P3679",
+        "text": "method of measuring the value of a section of the stock market",
+        "short": "stock market index"
+    },
+    {
+        "relation": "P1891",
+        "text": "person, country, or organization that has signed an official document (use P50 for author)",
+        "short": "signatory"
+    },
+    {
+        "relation": "P4426",
+        "text": "Y-DNA haplogroup of a person or organism",
+        "short": "Y-DNA Haplogroup"
+    },
+    {
+        "relation": "P1775",
+        "text": "for unknown artists who work in the manner of the named artist",
+        "short": "follower of"
+    },
+    {
+        "relation": "P1079",
+        "text": "organization contracted to launch the rocket",
+        "short": "launch contractor"
+    },
+    {
+        "relation": "P921",
+        "text": "primary topic of a work (see also P180: depicts)",
+        "short": "main subject"
+    },
+    {
+        "relation": "P769",
+        "text": "clinically significant interaction between two pharmacologically active substances (i.e., drugs and/or active metabolites) where concomitant intake can lead to altered effectiveness or adverse drug events.",
+        "short": "significant drug interaction"
+    },
+    {
+        "relation": "P1075",
+        "text": "rector of a university",
+        "short": "rector"
+    },
+    {
+        "relation": "P1074",
+        "text": "used to link an entity or class of entities appearing in a creative work with the analogous entity or class of entities in the real world",
+        "short": "fictional analog of"
+    },
+    {
+        "relation": "P1073",
+        "text": "file format a program can create and/or write to",
+        "short": "writable file format"
+    },
+    {
+        "relation": "P2789",
+        "text": "item with which the item is physically connected",
+        "short": "connects with"
+    },
+    {
+        "relation": "P1071",
+        "text": "place where the item was made; location of final assembly",
+        "short": "location of final assembly"
+    },
+    {
+        "relation": "P881",
+        "text": "type of variable star",
+        "short": "type of variable star"
+    },
+    {
+        "relation": "P736",
+        "text": "name of person or team creating cover artwork for album, single, book, etc.",
+        "short": "cover art by"
+    },
+    {
+        "relation": "P355",
+        "text": "subsidiary of a company or organization, opposite of parent organization (P749)",
+        "short": "subsidiary"
+    },
+    {
+        "relation": "P1398",
+        "text": "the item this building or structure replaced, at the same geographic location",
+        "short": "structure replaces"
+    },
+    {
+        "relation": "P1399",
+        "text": "crime a person was convicted of",
+        "short": "convicted of"
+    },
+    {
+        "relation": "P358",
+        "text": "link to discography in artist or band page",
+        "short": "discography"
+    },
+    {
+        "relation": "P1393",
+        "text": "person authorized to act for another",
+        "short": "proxy"
+    },
+    {
+        "relation": "P1158",
+        "text": "location where the craft landed",
+        "short": "location of landing"
+    },
+    {
+        "relation": "P457",
+        "text": "text through which an institution or object has been created or established",
+        "short": "foundational text"
+    },
+    {
+        "relation": "P2851",
+        "text": "types of payment accepted by a venue",
+        "short": "payment types accepted"
+    },
+    {
+        "relation": "P2852",
+        "text": "telephone number to contact the emergency services",
+        "short": "emergency phone number"
+    },
+    {
+        "relation": "P2853",
+        "text": "standard plug type for mains electricity in a country",
+        "short": "electrical plug type"
+    },
+    {
+        "relation": "P452",
+        "text": "industry of company or organization",
+        "short": "industry"
+    },
+    {
+        "relation": "P451",
+        "text": "someone in a relationship without being married. Use \"spouse\" for married couples.",
+        "short": "partner"
+    },
+    {
+        "relation": "P450",
+        "text": "space mission that the subject is or has been a member of (do not include future missions)",
+        "short": "astronaut mission"
+    },
+    {
+        "relation": "P408",
+        "text": "software engine employed by the subject item",
+        "short": "software engine"
+    },
+    {
+        "relation": "P3179",
+        "text": "part or all of the area associated with (this) entity overlaps part or all of the area associated with that entity",
+        "short": "territory overlaps"
+    },
+    {
+        "relation": "P3075",
+        "text": "official religion in this administrative entity",
+        "short": "official religion"
+    },
+    {
+        "relation": "P2416",
+        "text": "discipline an athlete competed in within a sport",
+        "short": "sports discipline competed in"
+    },
+    {
+        "relation": "P3173",
+        "text": "things, places another place offers views on",
+        "short": "offers view on"
+    },
+    {
+        "relation": "P3174",
+        "text": "person credited as the art director/artistic director of this work",
+        "short": "art director"
+    },
+    {
+        "relation": "P1552",
+        "text": "the entity has an inherent or distinguishing non-material characteristic",
+        "short": "has quality"
+    },
+    {
+        "relation": "P403",
+        "text": "the body of water to which the watercourse drains",
+        "short": "mouth of the watercourse"
+    },
+    {
+        "relation": "P1557",
+        "text": "inherent and characteristic embodiment of a given concept",
+        "short": "manifestation of"
+    },
+    {
+        "relation": "P859",
+        "text": "organization or individual that sponsors this item",
+        "short": "sponsor"
+    },
+    {
+        "relation": "P3373",
+        "text": "the subject has the object as their sibling (brother, sister, etc.). Use \"relative\" (P1038) for siblings-in-law (brother-in-law, sister-in-law, etc.) and step-siblings (step-brothers, step-sisters, etc.)",
+        "short": "sibling"
+    },
+    {
+        "relation": "P1308",
+        "text": "persons who hold and/or held an office or noble title",
+        "short": "officeholder"
+    },
+    {
+        "relation": "P1809",
+        "text": "person(s) who did the choreography",
+        "short": "choreographer"
+    },
+    {
+        "relation": "P185",
+        "text": "doctoral student(s) of a professor",
+        "short": "doctoral student"
+    },
+    {
+        "relation": "P184",
+        "text": "person who supervised the doctorate or PhD thesis of the subject",
+        "short": "doctoral advisor"
+    },
+    {
+        "relation": "P186",
+        "text": "material the subject is made of or derived from",
+        "short": "material used"
+    },
+    {
+        "relation": "P180",
+        "text": "depicted entity (see also P921: main subject)",
+        "short": "depicts"
+    },
+    {
+        "relation": "P183",
+        "text": "sole location or habitat type where the taxon lives",
+        "short": "endemic to"
+    },
+    {
+        "relation": "P1078",
+        "text": "configuration of the valvetrain utilized by this engine",
+        "short": "valvetrain configuration"
+    },
+    {
+        "relation": "P189",
+        "text": "where the item was located when discovered",
+        "short": "location of discovery"
+    },
+    {
+        "relation": "P2354",
+        "text": "Wikimedia list related to this subject",
+        "short": "has list"
+    },
+    {
+        "relation": "P1322",
+        "text": "dual of a polytope, graph or curve",
+        "short": "dual to"
+    },
+    {
+        "relation": "P1321",
+        "text": "lieu d'origine of a Swiss national. Not be confused with place of birth or place of residence",
+        "short": "place of origin (Switzerland)"
+    },
+    {
+        "relation": "P1327",
+        "text": "professional collaborator",
+        "short": "partner in business or sport"
+    },
+    {
+        "relation": "P739",
+        "text": "cartridge or other ammunition used by the subject firearm",
+        "short": "ammunition"
+    },
+    {
+        "relation": "P676",
+        "text": "author of song lyrics; also use P86 for music composer",
+        "short": "lyrics by"
+    },
+    {
+        "relation": "P674",
+        "text": "characters which appear in this item (like plays, operas, operettas, books, comics, films, TV series, video games)",
+        "short": "characters"
+    },
+    {
+        "relation": "P2828",
+        "text": "person who holds a specific position",
+        "short": "corporate officer"
+    },
+    {
+        "relation": "P194",
+        "text": "legislative body governing this entity; political institution with elected representatives, such as a parliament/legislature or council",
+        "short": "legislative body"
+    },
+    {
+        "relation": "P2825",
+        "text": "intermediate point on a journey - stopover location, waystation or routing point",
+        "short": "via"
+    },
+    {
+        "relation": "P2821",
+        "text": "product of a chemical or industrial process, of secondary economic value",
+        "short": "by-product"
+    },
+    {
+        "relation": "P2820",
+        "text": "measure of number of elements of a set",
+        "short": "cardinality of this set"
+    },
+    {
+        "relation": "P1072",
+        "text": "file format a program can open and read",
+        "short": "readable file format"
+    },
+    {
+        "relation": "P3450",
+        "text": "property that shows the competition of which the item is a season. Use P5138 for \"season of club or team\".",
+        "short": "sports season of league or competition"
+    },
+    {
+        "relation": "P3512",
+        "text": "method that the subject uses to move from one place to another",
+        "short": "means of locomotion"
+    },
+    {
+        "relation": "P3103",
+        "text": "grammatical category expressing time reference of the language. To include a sample, use qualifier \"quote\" (P1683), sample: \"He writes\". If an activity before is needed \"He sees\". If an activity afterwards is needed: \"He reads\".",
+        "short": "has tense"
+    },
+    {
+        "relation": "P2505",
+        "text": "item (e.g. road, railway, canal) carried by a bridge, a tunnel or a mountain pass",
+        "short": "carries"
+    },
+    {
+        "relation": "P2502",
+        "text": "race for which this classification applies",
+        "short": "classification of race"
+    },
+    {
+        "relation": "P2500",
+        "text": "the league below this sports league",
+        "short": "league level below"
+    },
+    {
+        "relation": "P4312",
+        "text": "filmmaking method that the cameras were placed by. Use single-camera (Q2918907) or multiple-camera (Q738160)",
+        "short": "camera setup"
+    },
+    {
+        "relation": "P2868",
+        "text": "(qualifier) role/generic identity of the item that the statement is on (\"subject\") in the context of the statement. For the role of the value of the statement (\"object\"), use P3831 (\"object has role\"). For acting roles, use P453 (\"character role\").",
+        "short": "subject has role"
+    },
+    {
+        "relation": "P1336",
+        "text": "administrative divisions that claim control of a given area",
+        "short": "territory claimed by"
+    },
+    {
+        "relation": "P1571",
+        "text": "codomain of a function",
+        "short": "codomain"
+    },
+    {
+        "relation": "P178",
+        "text": "organisation or person that developed the item",
+        "short": "developer"
+    },
+    {
+        "relation": "P179",
+        "text": "series which contains the subject",
+        "short": "part of the series"
+    },
+    {
+        "relation": "P275",
+        "text": "license under which this copyrighted work is released",
+        "short": "license"
+    },
+    {
+        "relation": "P1773",
+        "text": "uncertain but considered creator of an artwork",
+        "short": "attributed to"
+    },
+    {
+        "relation": "P272",
+        "text": "company that produced this film, audio or performing arts work",
+        "short": "production company"
+    },
+    {
+        "relation": "P2184",
+        "text": "historical development of an item's topic",
+        "short": "history of topic"
+    },
+    {
+        "relation": "P170",
+        "text": "maker of this creative work or other object (where no more specific property exists). Paintings with unknown painters, use \"anonymous\" (Q4233718) as value.",
+        "short": "creator"
+    },
+    {
+        "relation": "P171",
+        "text": "closest parent taxon of the taxon in question",
+        "short": "parent taxon"
+    },
+    {
+        "relation": "P172",
+        "text": "subject's ethnicity (consensus is that a VERY high standard of proof is needed for this field to be used. In general this means 1) the subject claims it him/herself, or 2) it is widely agreed on by scholars, or 3) is fictional and portrayed as such).",
+        "short": "ethnic group"
+    },
+    {
+        "relation": "P175",
+        "text": "actor, musician, band or other performer associated with this role or musical work",
+        "short": "performer"
+    },
+    {
+        "relation": "P279",
+        "text": "all instances of these items are instances of those items; this item is a class (subset) of that item. Not to be confused with P31 (instance of)",
+        "short": "subclass of"
+    },
+    {
+        "relation": "P177",
+        "text": "obstacle (body of water, road, ...) which this bridge crosses over or this tunnel goes under",
+        "short": "crosses"
+    },
+    {
+        "relation": "P291",
+        "text": "geographical place of publication of the edition (use 1st edition when referring to works)",
+        "short": "place of publication"
+    },
+    {
+        "relation": "P2210",
+        "text": "qualifier: what a statement value is relative to",
+        "short": "relative to"
+    },
+    {
+        "relation": "P3205",
+        "text": "was treated or studied as a patient by this person",
+        "short": "patient of"
+    },
+    {
+        "relation": "P1202",
+        "text": "scientific instruments carried by a vessel, satellite, or device that are not required for propelling or navigating",
+        "short": "carries scientific instrument"
+    },
+    {
+        "relation": "P2094",
+        "text": "official classification by a regulating body under which the subject (events, teams, participants, or equipment) qualifies for inclusion",
+        "short": "competition class"
+    },
+    {
+        "relation": "P974",
+        "text": "stream or river that flows into this main stem (or parent) river",
+        "short": "tributary"
+    },
+    {
+        "relation": "P2438",
+        "text": "narrator, character or person that tells the story",
+        "short": "narrator"
+    },
+    {
+        "relation": "P2439",
+        "text": "None",
+        "short": "None"
+    },
+    {
+        "relation": "P737",
+        "text": "this person, idea, etc. is informed by that other person, idea, etc., e.g. \"Heidegger was influenced by Aristotle\".",
+        "short": "influenced by"
+    },
+    {
+        "relation": "P36",
+        "text": "primary city of a country, province, state or other type of administrative territorial entity",
+        "short": "capital"
+    },
+    {
+        "relation": "P4552",
+        "text": "range or subrange to which the geographical item belongs",
+        "short": "mountain range"
+    },
+    {
+        "relation": "P1637",
+        "text": "type of aircraft landing gear the item is equipped with",
+        "short": "undercarriage"
+    },
+    {
+        "relation": "P47",
+        "text": "countries or administrative subdivisions, of equal level, that this item borders, either by land or water",
+        "short": "shares border with"
+    },
+    {
+        "relation": "P1731",
+        "text": "describes the special ablilites of an operatic singers voice",
+        "short": "Fach"
+    },
+    {
+        "relation": "P4387",
+        "text": "method used by an app/OS to receive updates or self-update",
+        "short": "update method"
+    },
+    {
+        "relation": "P40",
+        "text": "subject has object as biological, foster, and/or adoptive child",
+        "short": "child"
+    },
+    {
+        "relation": "P413",
+        "text": "position or specialism of a player on a team, e.g. Small Forward",
+        "short": "position played on team / speciality"
+    },
+    {
+        "relation": "P412",
+        "text": "person's voice type. expected values: soprano, mezzo-soprano, contralto, countertenor, tenor, baritone, bass (and derivatives)",
+        "short": "voice type"
+    },
+    {
+        "relation": "P1444",
+        "text": "intended destination for this route (journey, flight, sailing, exploration, migration, etc.)",
+        "short": "destination point"
+    },
+    {
+        "relation": "P410",
+        "text": "military rank achieved by a person (should usually have a \"start time\" qualifier), or military rank associated with a position",
+        "short": "military rank"
+    },
+    {
+        "relation": "P417",
+        "text": "patron saint adopted by the subject",
+        "short": "patron saint"
+    },
+    {
+        "relation": "P415",
+        "text": "describes the overall content broadcast on a radio station",
+        "short": "radio format"
+    },
+    {
+        "relation": "P1441",
+        "text": "work in which this fictional entity (Q14897293) or historical person is present (use P2860 for works citing other works, P361/P1433 for works being part of / published in other works, P1343 for entities described in non-fictional accounts)",
+        "short": "present in work"
+    },
+    {
+        "relation": "P822",
+        "text": "mascot of an organization, e.g. a sports team or university",
+        "short": "mascot"
+    },
+    {
+        "relation": "P823",
+        "text": "person who is speaker for this event, ceremony, keynote, or presentation",
+        "short": "speaker"
+    },
+    {
+        "relation": "P418",
+        "text": "description of a subject's seal",
+        "short": "seal description"
+    },
+    {
+        "relation": "P826",
+        "text": "key of a musical composition",
+        "short": "tonality"
+    },
+    {
+        "relation": "P825",
+        "text": "person or organization to whom the subject was dedicated",
+        "short": "dedicated to"
+    },
+    {
+        "relation": "P559",
+        "text": "the feature (intersecting road, train station, etc.) at the end of a linear feature",
+        "short": "terminus"
+    },
+    {
+        "relation": "P553",
+        "text": "a website that the person or organization has an account on (use with P554) Note: only used with reliable source or if the person or organization disclosed it.",
+        "short": "website account on"
+    },
+    {
+        "relation": "P550",
+        "text": "the chivalric order which a person belongs to",
+        "short": "chivalric order"
+    },
+    {
+        "relation": "P551",
+        "text": "the place where the person is or has been, resident",
+        "short": "residence"
+    },
+    {
+        "relation": "P556",
+        "text": "type of crystal for minerals and/or for crystal compounds",
+        "short": "crystal system"
+    },
+    {
+        "relation": "P2647",
+        "text": "place the material used was mined, quarried, found, or produced",
+        "short": "source of material"
+    },
+    {
+        "relation": "P1594",
+        "text": "Judge, magistrate or equivalent, presiding at a trial",
+        "short": "judge"
+    },
+    {
+        "relation": "P1595",
+        "text": "offence with which someone is charged, at a trial",
+        "short": "charge"
+    },
+    {
+        "relation": "P1596",
+        "text": "penalty passed at a trial",
+        "short": "penalty"
+    },
+    {
+        "relation": "P1591",
+        "text": "person or organization accused, at a trial",
+        "short": "defendant"
+    },
+    {
+        "relation": "P1592",
+        "text": "person representing the prosecuting authority, at a trial",
+        "short": "prosecutor"
+    },
+    {
+        "relation": "P1593",
+        "text": "person representing the defendant, at a trial",
+        "short": "defender"
+    },
+    {
+        "relation": "P3701",
+        "text": "incarnation of another religious or supernatural being",
+        "short": "incarnation of"
+    },
+    {
+        "relation": "P1598",
+        "text": "bishop who presided as consecrator or co-consecrator of this bishop",
+        "short": "consecrator"
+    },
+    {
+        "relation": "P361",
+        "text": "object of which the subject is a part (it's not useful to link objects which are themselves parts of other objects already listed as parts of the subject). Inverse property of \"has part\" (P527, see also \"has parts of the class\" (P2670)).",
+        "short": "part of"
+    },
+    {
+        "relation": "P1027",
+        "text": "person or organization who awards a prize to or bestows an honor upon a recipient",
+        "short": "conferred by"
+    },
+    {
+        "relation": "P598",
+        "text": "for persons who are notable as commanding officers, the units they commanded",
+        "short": "commander of"
+    },
+    {
+        "relation": "P360",
+        "text": "common element between all listed items",
+        "short": "is a list of"
+    },
+    {
+        "relation": "P1840",
+        "text": "person or organization involved in investigation of the item",
+        "short": "investigated by"
+    },
+    {
+        "relation": "P4132",
+        "text": "classification of languages according to their linguistic trait (as opposed to historical families like romance languages)",
+        "short": "linguistic typology"
+    },
+    {
+        "relation": "P1028",
+        "text": "person or organization who donated the object",
+        "short": "donated by"
+    },
+    {
+        "relation": "P1029",
+        "text": "person that participated operating or serving aboard this vehicle",
+        "short": "crew member"
+    },
+    {
+        "relation": "P3093",
+        "text": "person, organisation or vehicle that recovered the item. Use the most specific value known.",
+        "short": "recovered by"
+    },
+    {
+        "relation": "P1366",
+        "text": "other person or item which continues the item by replacing it in its role. Use P156 (followed by) if the item is not replaced (e.g. books in a series), nor identical, but adds to the series without dropping the role of this item in that series",
+        "short": "replaced by"
+    },
+    {
+        "relation": "P1365",
+        "text": "person or item replaced. Use P1398 (structure replaces) for structures. Use P155 (follows) if the previous item was not replaced or if predecessor and successor are identical",
+        "short": "replaces"
+    },
+    {
+        "relation": "P735",
+        "text": "first name or another given name of this person; values used with the property shouldn't link disambiguations nor family names",
+        "short": "given name"
+    },
+    {
+        "relation": "P1363",
+        "text": "person who scored a point or goal in a game",
+        "short": "points/goal scored by"
+    },
+    {
+        "relation": "P3095",
+        "text": "type of agents that study this subject or work in this profession",
+        "short": "practiced by"
+    },
+    {
+        "relation": "P113",
+        "text": "airport that serves as a hub for an airline",
+        "short": "airline hub"
+    },
+    {
+        "relation": "P110",
+        "text": "person drawing the pictures in a book",
+        "short": "illustrator"
+    },
+    {
+        "relation": "P364",
+        "text": "language in which a film or a performance work was originally created. Deprecated for written works; use P407 (\"language of work or name\") instead.",
+        "short": "original language of film or TV show"
+    },
+    {
+        "relation": "P1165",
+        "text": "home planet or natural satellite for a fictional character or species",
+        "short": "home world"
+    },
+    {
+        "relation": "P2860",
+        "text": "citation from one creative work to another",
+        "short": "cites work"
+    },
+    {
+        "relation": "P2673",
+        "text": "next crossing of this river, canal, etc. upstream of this subject",
+        "short": "next crossing upstream"
+    },
+    {
+        "relation": "P2869",
+        "text": "links to item on the record or record progression",
+        "short": "record or record progression"
+    },
+    {
+        "relation": "P306",
+        "text": "operating system (OS) on which a software works or the OS installed on hardware",
+        "short": "operating system"
+    },
+    {
+        "relation": "P1201",
+        "text": "spacecraft vehicle designed to move the payload from a reference orbit to the target orbit, or direct it to an interplanetary trajectory",
+        "short": "space tug"
+    },
+    {
+        "relation": "P301",
+        "text": "primary topic of the subject Wikimedia category",
+        "short": "category's main topic"
+    },
+    {
+        "relation": "P162",
+        "text": "person(s) who produced the film, musical work, theatrical production, etc. (for film, this does not include executive producers, associate producers, etc.) [for production company, use P272, video games - use P178]",
+        "short": "producer"
+    },
+    {
+        "relation": "P6",
+        "text": "head of the executive power of this town, city, municipality, state, country, or other governmental body",
+        "short": "head of government"
+    },
+    {
+        "relation": "P3148",
+        "text": "this document or act repeals that other document or act",
+        "short": "repeals"
+    },
+    {
+        "relation": "P115",
+        "text": "home stadium or venue of a sports team or applicable performing arts organization",
+        "short": "home venue"
+    },
+    {
+        "relation": "P2674",
+        "text": "next crossing of this river, canal, etc. downstream of this subject",
+        "short": "next crossing downstream"
+    },
+    {
+        "relation": "P4044",
+        "text": "disease area in which a medical intervention is applied",
+        "short": "therapeutic area"
+    },
+    {
+        "relation": "P780",
+        "text": "possible symptoms of a medical condition",
+        "short": "symptoms"
+    },
+    {
+        "relation": "P4043",
+        "text": "emulates the identified platform, CPU, or system",
+        "short": "emulates"
+    },
+    {
+        "relation": "P789",
+        "text": "whether a mushroom can be eaten or not",
+        "short": "edibility"
+    },
+    {
+        "relation": "P788",
+        "text": "property classifying the ecological type of a mushroom",
+        "short": "mushroom ecological type"
+    },
+    {
+        "relation": "P3022",
+        "text": "person who carries the national flag of their country at an opening or closing ceremony",
+        "short": "flag bearer"
+    },
+    {
+        "relation": "P118",
+        "text": "league in which team or player plays or has played in",
+        "short": "league"
+    }
+]
